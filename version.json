@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.1.1",
-  "latest_version": "0.1.1",
+  "latest_version": "0.1.2",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.1.1",
-  "patches": []
+  "patches": [
+    {
+      "id": "0001-0.1.2",
+      "version": "0.1.2",
+      "file": "0001-0.1.2.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.1.2/0001-0.1.2.pck",
+      "sha256": "07e9c7576932b14a7dd6a3b04028096b5c4f7e37b19ca5192d10ac37fef411f9",
+      "size": 257600,
+      "notes": "PvP synchronization fixes and first-turn leader rules"
+    }
+  ]
 }

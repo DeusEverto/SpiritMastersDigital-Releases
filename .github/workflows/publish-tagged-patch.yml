@@ -1,0 +1,31 @@
+name: Publish tagged patch
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out release files
+        uses: actions/checkout@v4
+
+      - name: Publish matching patch files
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG_NAME: ${{ github.ref_name }}
+        run: |
+          version="${TAG_NAME#v}"
+          mapfile -t patch_files < <(find patches -maxdepth 1 -type f -name "*-${version}.pck" -print)
+          if [ "${#patch_files[@]}" -eq 0 ]; then
+            echo "No patch files found for ${TAG_NAME}."
+            exit 1
+          fi
+          gh release create "${TAG_NAME}" "${patch_files[@]}" \
+            --title "Spirit Masters ${version}" \
+            --notes "Incremental Spirit Masters update ${version}. Requires the 0.1.1 base installation."

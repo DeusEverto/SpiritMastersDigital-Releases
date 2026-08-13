@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "base_version": "0.1.1",
-  "latest_version": "0.1.2",
+  "latest_version": "0.1.3",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.1.1",
   "patches": [
     {
@@ -12,6 +12,15 @@
       "sha256": "07e9c7576932b14a7dd6a3b04028096b5c4f7e37b19ca5192d10ac37fef411f9",
       "size": 257600,
       "notes": "PvP synchronization fixes and first-turn leader rules"
+    },
+    {
+      "id": "0002-0.1.3",
+      "version": "0.1.3",
+      "file": "0002-0.1.3.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.1.3/0002-0.1.3.pck",
+      "sha256": "2c08ad5f0125bc7965c21b3e28afeee38abdd56911db381ea4991deb16d570a2",
+      "size": 58812,
+      "notes": "PvP targeted state synchronization and Airborne guard legality"
     }
   ]
 }

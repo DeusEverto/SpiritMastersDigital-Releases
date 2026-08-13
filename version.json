@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "base_version": "0.1.1",
-  "latest_version": "0.1.4",
+  "latest_version": "0.1.5",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.1.1",
   "patches": [
     {
@@ -30,6 +30,15 @@
       "sha256": "981d2d775bd26d57f1d3743ca3669fcc83b45218a7ca29ed2992b93df0f697c9",
       "size": 36284,
       "notes": "Restore PvP mulligan and turn lifecycle synchronization"
+    },
+    {
+      "id": "0004-0.1.5",
+      "version": "0.1.5",
+      "file": "0004-0.1.5.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.1.5/0004-0.1.5.pck",
+      "sha256": "997b77dfefabbeebcbb00f2309d3f5f6c2649b29386c82463005850e848f603b",
+      "size": 43512,
+      "notes": "Fix PvP phase and attack synchronization and refresh online lobbies automatically"
     }
   ]
 }

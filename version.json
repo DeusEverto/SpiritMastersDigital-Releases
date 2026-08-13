@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "base_version": "0.1.1",
-  "latest_version": "0.1.3",
+  "latest_version": "0.1.4",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.1.1",
   "patches": [
     {
@@ -21,6 +21,15 @@
       "sha256": "2c08ad5f0125bc7965c21b3e28afeee38abdd56911db381ea4991deb16d570a2",
       "size": 58812,
       "notes": "PvP targeted state synchronization and Airborne guard legality"
+    },
+    {
+      "id": "0003-0.1.4",
+      "version": "0.1.4",
+      "file": "0003-0.1.4.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.1.4/0003-0.1.4.pck",
+      "sha256": "981d2d775bd26d57f1d3743ca3669fcc83b45218a7ca29ed2992b93df0f697c9",
+      "size": 36284,
+      "notes": "Restore PvP mulligan and turn lifecycle synchronization"
     }
   ]
 }

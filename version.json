@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "base_version": "0.1.1",
-  "latest_version": "0.1.5",
+  "latest_version": "0.1.6",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.1.1",
   "patches": [
     {
@@ -39,6 +39,15 @@
       "sha256": "997b77dfefabbeebcbb00f2309d3f5f6c2649b29386c82463005850e848f603b",
       "size": 43512,
       "notes": "Fix PvP phase and attack synchronization and refresh online lobbies automatically"
+    },
+    {
+      "id": "0005-0.1.6",
+      "version": "0.1.6",
+      "file": "0005-0.1.6.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.1.6/0005-0.1.6.pck",
+      "sha256": "bd2ddba6ac232981ab828217190cb182238bc2d89033949365bb29311c7e2d1d",
+      "size": 159020,
+      "notes": "Make live PvP gameplay authoritative and prevent duplicate Draw Phase draws"
     }
   ]
 }

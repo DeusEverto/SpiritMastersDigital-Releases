@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "base_version": "0.1.1",
-  "latest_version": "0.1.6",
+  "latest_version": "0.1.7",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.1.1",
   "patches": [
     {
@@ -48,6 +48,15 @@
       "sha256": "bd2ddba6ac232981ab828217190cb182238bc2d89033949365bb29311c7e2d1d",
       "size": 159020,
       "notes": "Make live PvP gameplay authoritative and prevent duplicate Draw Phase draws"
+    },
+    {
+      "id": "0006-0.1.7",
+      "version": "0.1.7",
+      "file": "0006-0.1.7.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.1.7/0006-0.1.7.pck",
+      "sha256": "c364f06b9a632f01a30d1143eb2959ef16db2a1442b5431b19410ef5ea97a4ba",
+      "size": 92952,
+      "notes": "Compact authoritative PvP state, increase transport buffers, and fix mirrored reaction keys"
     }
   ]
 }

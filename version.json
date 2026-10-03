@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.0",
-  "latest_version": "0.2.2",
+  "latest_version": "0.2.3",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.0",
   "patches": [
     {
-      "id": "0002-0.2.2",
-      "version": "0.2.2",
-      "file": "0002-0.2.2.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.2/0002-0.2.2.pck",
-      "sha256": "30ed06f12f409aa0bfdc66697ee522bd0b26f1ffa6865d233d11acc83702d725",
-      "size": 59163336,
-      "notes": "Everything in 0.2.1 (friends search, chat, invites, guard fix, turn-end animations, Lumi, new art, official card layout) and automatic updates back on"
+      "id": "0003-0.2.3",
+      "version": "0.2.3",
+      "file": "0003-0.2.3.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.3/0003-0.2.3.pck",
+      "sha256": "c7d58573b305dfe86292b2d168b974c04a52e2b517df481508172079a3f772de",
+      "size": 59193076,
+      "notes": "Roll for first in online matches; stale attack-target prompt fix; full updates install in-game"
     }
   ]
 }

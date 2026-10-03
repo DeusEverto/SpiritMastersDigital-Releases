@@ -1,7 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.0",
-  "latest_version": "0.2.0",
+  "latest_version": "0.2.1",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.0",
-  "patches": []
+  "patches": [
+    {
+      "id": "0001-0.2.1",
+      "version": "0.2.1",
+      "file": "0001-0.2.1.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.1/0001-0.2.1.pck",
+      "sha256": "a44f6279b1482feb54ad2ebec77560122f50b59777517587fa01f3e66693cf11",
+      "size": 59152656,
+      "notes": "Friends search, chat and lobby invites; unguardable attacks resolve; turn end waits for card animations; Lumi in the Deck Editor; new card art and official card layout"
+    }
+  ]
 }

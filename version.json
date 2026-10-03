@@ -1,62 +1,7 @@
 {
   "schema_version": 1,
-  "base_version": "0.1.1",
-  "latest_version": "0.1.7",
-  "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.1.1",
-  "patches": [
-    {
-      "id": "0001-0.1.2",
-      "version": "0.1.2",
-      "file": "0001-0.1.2.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.1.2/0001-0.1.2.pck",
-      "sha256": "07e9c7576932b14a7dd6a3b04028096b5c4f7e37b19ca5192d10ac37fef411f9",
-      "size": 257600,
-      "notes": "PvP synchronization fixes and first-turn leader rules"
-    },
-    {
-      "id": "0002-0.1.3",
-      "version": "0.1.3",
-      "file": "0002-0.1.3.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.1.3/0002-0.1.3.pck",
-      "sha256": "2c08ad5f0125bc7965c21b3e28afeee38abdd56911db381ea4991deb16d570a2",
-      "size": 58812,
-      "notes": "PvP targeted state synchronization and Airborne guard legality"
-    },
-    {
-      "id": "0003-0.1.4",
-      "version": "0.1.4",
-      "file": "0003-0.1.4.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.1.4/0003-0.1.4.pck",
-      "sha256": "981d2d775bd26d57f1d3743ca3669fcc83b45218a7ca29ed2992b93df0f697c9",
-      "size": 36284,
-      "notes": "Restore PvP mulligan and turn lifecycle synchronization"
-    },
-    {
-      "id": "0004-0.1.5",
-      "version": "0.1.5",
-      "file": "0004-0.1.5.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.1.5/0004-0.1.5.pck",
-      "sha256": "997b77dfefabbeebcbb00f2309d3f5f6c2649b29386c82463005850e848f603b",
-      "size": 43512,
-      "notes": "Fix PvP phase and attack synchronization and refresh online lobbies automatically"
-    },
-    {
-      "id": "0005-0.1.6",
-      "version": "0.1.6",
-      "file": "0005-0.1.6.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.1.6/0005-0.1.6.pck",
-      "sha256": "bd2ddba6ac232981ab828217190cb182238bc2d89033949365bb29311c7e2d1d",
-      "size": 159020,
-      "notes": "Make live PvP gameplay authoritative and prevent duplicate Draw Phase draws"
-    },
-    {
-      "id": "0006-0.1.7",
-      "version": "0.1.7",
-      "file": "0006-0.1.7.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.1.7/0006-0.1.7.pck",
-      "sha256": "c364f06b9a632f01a30d1143eb2959ef16db2a1442b5431b19410ef5ea97a4ba",
-      "size": 92952,
-      "notes": "Compact authoritative PvP state, increase transport buffers, and fix mirrored reaction keys"
-    }
-  ]
+  "base_version": "0.2.0",
+  "latest_version": "0.2.0",
+  "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.0",
+  "patches": []
 }

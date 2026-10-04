@@ -13,5 +13,11 @@
       "size": 59193076,
       "notes": "Roll for first in online matches; stale attack-target prompt fix; full updates install in-game"
     }
-  ]
+  ],
+  "android": {
+    "base": "1",
+    "latest_version": "0.2.3",
+    "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/android-v0.2.3",
+    "patches": []
+  }
 }

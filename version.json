@@ -1,32 +1,32 @@
 {
   "schema_version": 1,
   "base_version": "0.2.0",
-  "latest_version": "0.2.4",
+  "latest_version": "0.2.5",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.0",
   "patches": [
     {
-      "id": "0004-0.2.4",
-      "version": "0.2.4",
-      "file": "0004-0.2.4.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.4/0004-0.2.4.pck",
-      "sha256": "2a69dd5e39395506f8e552eabcc4b1b3b58ee146311758b17ad50599a4b9e0d4",
-      "size": 65066244,
-      "notes": "Effects show before their results, reveals for both players, smarter AI targeting, rules fixes and a new card editor."
+      "id": "0005-0.2.5",
+      "version": "0.2.5",
+      "file": "0005-0.2.5.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.5/0005-0.2.5.pck",
+      "sha256": "851c537acf7f5176b1ebce5a9801666ebf2b9abe73ca4f916be6ada794de8804",
+      "size": 240952884,
+      "notes": "3-4 player games (vs AI and online), best-of-3 Matches, a new Match Setup screen, hit animations and status tokens."
     }
   ],
   "android": {
     "base": "1",
-    "latest_version": "0.2.4",
+    "latest_version": "0.2.5",
     "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/android-v0.2.3",
     "patches": [
       {
-        "id": "android-0004-0.2.4",
-        "version": "0.2.4",
-        "file": "android-0004-0.2.4.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.4/android-0004-0.2.4.pck",
-        "sha256": "1a9bd2705df7e6975b54e797f60def5302ef0879386ba1468ae2fc8fea5a55ae",
-        "size": 6017104,
-        "notes": "Effects show before their results, reveals for both players, smarter AI targeting, rules fixes and a new card editor."
+        "id": "android-0005-0.2.5",
+        "version": "0.2.5",
+        "file": "android-0005-0.2.5.pck",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.5/android-0005-0.2.5.pck",
+        "sha256": "f903ec64a7c98bf8d40e2311d94924c80974b6574e77e921030ac2ae9e11f3f3",
+        "size": 189775556,
+        "notes": "3-4 player games (vs AI and online), best-of-3 Matches, a new Match Setup screen, hit animations and status tokens."
       }
     ]
   }

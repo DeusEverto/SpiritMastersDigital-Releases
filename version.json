@@ -1,302 +1,32 @@
 {
   "schema_version": 1,
   "base_version": "0.2.0",
-  "latest_version": "0.2.6",
+  "latest_version": "0.2.7",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.0",
   "patches": [
     {
-      "id": "0006-0.2.6-part01",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part01.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part01.pck",
-      "sha256": "0de0af2954cf44907382f7723093a97f0f3b457adf89776c03ef57efdde4aecd",
-      "size": 19327276,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part02",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part02.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part02.pck",
-      "sha256": "597ed4f4a3290798963ce5a92529938d14faba3b951aaad970c30d641ca1fdfa",
-      "size": 19947346,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part03",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part03.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part03.pck",
-      "sha256": "a38c9b1785fc745d6ffe16746b4b465b800029e7bc51f7d0c6f1b30e89a4152f",
-      "size": 19268332,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part04",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part04.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part04.pck",
-      "sha256": "17cda6080d2b4de2576f0e10a95969c47730279b2a83ef257df004123f3a9958",
-      "size": 19666584,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part05",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part05.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part05.pck",
-      "sha256": "10d2a611984dbb37671f7cf2da8cbeffbe5601f11883bbb5e98fe43513023d44",
-      "size": 19959698,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part06",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part06.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part06.pck",
-      "sha256": "302e0f6c8265320221a703c39dabc4f5bcf4ad618a365a725a09d1775fcdb6e3",
-      "size": 19997458,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part07",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part07.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part07.pck",
-      "sha256": "1a4151942ea87a16fa2bbf5478a1657327222549137c729e1b491e6da55c10df",
-      "size": 19265784,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part08",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part08.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part08.pck",
-      "sha256": "8c6e4c842a43c479cada245d4f7ab80a6ba794d81a56ca4df27ed243134d1df9",
-      "size": 11977348,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part09",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part09.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part09.pck",
-      "sha256": "3206408d3a2ed6b22da8d1a14307d6994ed70210e4edb491461af631691b0faf",
-      "size": 19459202,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part10",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part10.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part10.pck",
-      "sha256": "7b06962b05ba18b0315db698ddfc8a73e95a585683b05549896eedf17f34b84e",
-      "size": 18769308,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part11",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part11.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part11.pck",
-      "sha256": "df1fb78f7aa3ffe7d40b696876c793cc9c8257f933b829a3ff64e608fb1147a0",
-      "size": 19947550,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part12",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part12.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part12.pck",
-      "sha256": "0ec8b8e11b57a7901af76ebdf784eb438a221c7a4faabd410696d806720beabc",
-      "size": 19480676,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part13",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part13.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part13.pck",
-      "sha256": "ff81aa02cb43da9cac37d94ba05a43363db00277fcc10ae0ebecbd38f71dcb51",
-      "size": 19511624,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part14",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part14.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part14.pck",
-      "sha256": "ea92f1d7e8b4d838ce9bb758702a878eb2f972a706316e90fbfbcc639ff2ca11",
-      "size": 19959072,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part15",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part15.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part15.pck",
-      "sha256": "d02c231efa80ddb71f0e02f48606c2f17eb9c741f0cb6c514dee96d630bb55c1",
-      "size": 19982146,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part16",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part16.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part16.pck",
-      "sha256": "22be06bf85fbd657619f56c95f0a9948d4e448bfce574e887b082a90fe319380",
-      "size": 16614282,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-    },
-    {
-      "id": "0006-0.2.6-part17",
-      "version": "0.2.6",
-      "file": "0006-0.2.6-part17.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6-part17.pck",
-      "sha256": "ec50dabf619681a7b53bb126abd3f8e86d574d4603c2e87a18828d70fb910166",
-      "size": 12141814,
-      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
+      "id": "0007-0.2.7",
+      "version": "0.2.7",
+      "file": "0007-0.2.7.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.7/0007-0.2.7.pck",
+      "sha256": "63fbaaea9e5c2e6c44224d84349e31110ef69fe0caa9c9cba85c928e11f6f1a8",
+      "size": 315315732,
+      "notes": "Cards without effects no longer trigger, dice replace coin flips, a new update screen, and the card editor's dropdowns are back to normal."
     }
   ],
   "android": {
     "base": "1",
-    "latest_version": "0.2.6",
+    "latest_version": "0.2.7",
     "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/android-v0.2.3",
     "patches": [
       {
-        "id": "android-0006-0.2.6-part01",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part01.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part01.pck",
-        "sha256": "802c34f3e4a9db5b50d86a1c21c32924b6eb2124bf6af44b7f1cf78227222a35",
-        "size": 19629562,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part02",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part02.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part02.pck",
-        "sha256": "41ffd008813231ef14e454b57a51ca15d485cf35e7f176cbba662b02d97f47ad",
-        "size": 19328424,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part03",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part03.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part03.pck",
-        "sha256": "c564511daf18e73f594e8b6a332c4208a49fc9d1d139e5a3decf480355462106",
-        "size": 16994608,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part04",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part04.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part04.pck",
-        "sha256": "4696a58a20ded99e839739d01aa894974efcb8e5fa5a09426a75fa8787c2bb83",
-        "size": 19170328,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part05",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part05.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part05.pck",
-        "sha256": "be41ac2e0722fce2bdb485381ceb8a2aa31b0fcf6afb3b70e2dc4b500109daa7",
-        "size": 19447804,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part06",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part06.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part06.pck",
-        "sha256": "7e8cd54c6c20c04f789822ac32657b973aaa859aa19008fc2549551ea9bd78f8",
-        "size": 18745344,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part07",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part07.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part07.pck",
-        "sha256": "7c4c29b075df649f7c38e486fc330019daf8726bdc0e0d209f17e1c88ae605e7",
-        "size": 19098488,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part08",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part08.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part08.pck",
-        "sha256": "0767c0bd472debe5ac4091447255e726f8c030b5446e7943094462f0546d825c",
-        "size": 17842084,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part09",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part09.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part09.pck",
-        "sha256": "8a295aa9cc0a4083cb56973a918e24f506dfa65d6323d1c42f92adc6a07dc2d4",
-        "size": 18959650,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part10",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part10.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part10.pck",
-        "sha256": "fc01129293558698c5014e842183df4d49a9acc58f33e1c4b0a3e12f455dfa45",
-        "size": 19392920,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part11",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part11.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part11.pck",
-        "sha256": "58129917d406d9df01a95deb5d14d71fc1b1cbc5b33f603ba81a62a5d140fe53",
-        "size": 19965666,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part12",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part12.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part12.pck",
-        "sha256": "695f0cc5154507430870982391ae9079ea4c177d05fca2250110d5056cd15b63",
-        "size": 19979222,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part13",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part13.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part13.pck",
-        "sha256": "544c4229538c30a9898fea5791e9a5475584bb080cc7099097610569eb92a646",
-        "size": 20018436,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part14",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part14.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part14.pck",
-        "sha256": "d5531388f97a55bef3f90da7f0d0ef3446e7d679ce1305d0f86ce9353d35b5fd",
-        "size": 3556494,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
-      },
-      {
-        "id": "android-0006-0.2.6-part15",
-        "version": "0.2.6",
-        "file": "android-0006-0.2.6-part15.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6-part15.pck",
-        "sha256": "b8576b62ffd74bcd039ad2b40c2e46db2bbb20f6c41e49f437e27bf53dcd2c11",
-        "size": 12013510,
-        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
+        "id": "android-0007-0.2.7",
+        "version": "0.2.7",
+        "file": "android-0007-0.2.7.pck",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.7/android-0007-0.2.7.pck",
+        "sha256": "32e2193a0004687e944264beacb0cbbadd66155b49ed7d4b125dfc9d5e5ef589",
+        "size": 264183412,
+        "notes": "Cards without effects no longer trigger, dice replace coin flips, a new update screen, and the card editor's dropdowns are back to normal."
       }
     ]
   }

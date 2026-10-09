@@ -1,32 +1,32 @@
 {
   "schema_version": 1,
   "base_version": "0.2.0",
-  "latest_version": "0.2.5",
+  "latest_version": "0.2.6",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.0",
   "patches": [
     {
-      "id": "0005-0.2.5",
-      "version": "0.2.5",
-      "file": "0005-0.2.5.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.5/0005-0.2.5.pck",
-      "sha256": "851c537acf7f5176b1ebce5a9801666ebf2b9abe73ca4f916be6ada794de8804",
-      "size": 240952884,
-      "notes": "3-4 player games (vs AI and online), best-of-3 Matches, a new Match Setup screen, hit animations and status tokens."
+      "id": "0006-0.2.6",
+      "version": "0.2.6",
+      "file": "0006-0.2.6.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/0006-0.2.6.pck",
+      "sha256": "59ab1d36bfc0843aa351a9d5508f2c624e59f3988ee3ef0540de8a57714654ef",
+      "size": 315261000,
+      "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
     }
   ],
   "android": {
     "base": "1",
-    "latest_version": "0.2.5",
+    "latest_version": "0.2.6",
     "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/android-v0.2.3",
     "patches": [
       {
-        "id": "android-0005-0.2.5",
-        "version": "0.2.5",
-        "file": "android-0005-0.2.5.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.5/android-0005-0.2.5.pck",
-        "sha256": "f903ec64a7c98bf8d40e2311d94924c80974b6574e77e921030ac2ae9e11f3f3",
-        "size": 189775556,
-        "notes": "3-4 player games (vs AI and online), best-of-3 Matches, a new Match Setup screen, hit animations and status tokens."
+        "id": "android-0006-0.2.6",
+        "version": "0.2.6",
+        "file": "android-0006-0.2.6.pck",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.6/android-0006-0.2.6.pck",
+        "sha256": "7e496e55d68e3ecd55f269dcd469b3f19f3821e701380111179dbdf59b86722c",
+        "size": 264128680,
+        "notes": "The Pile, new cosmetics, a calmer AI, best-of-3 Matches online, stats for every mode, and many fixes."
       }
     ]
   }

@@ -1,32 +1,32 @@
 {
   "schema_version": 1,
   "base_version": "0.2.0",
-  "latest_version": "0.2.9",
+  "latest_version": "0.2.10",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.0",
   "patches": [
     {
-      "id": "0009-0.2.9",
-      "version": "0.2.9",
-      "file": "0009-0.2.9.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.9/0009-0.2.9.pck",
-      "sha256": "795987ef0172fa97d7b72bab928d0aa0e651030e6372cf343b8c722b66ce195e",
-      "size": 318366896,
-      "notes": "## Spirit Masters 0.2.9"
+      "id": "0010-0.2.10",
+      "version": "0.2.10",
+      "file": "0010-0.2.10.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.10/0010-0.2.10.pck",
+      "sha256": "6148c366ab21a2a2a5633bcc92e8c61d3973ba5f7a99f7e8e3ccfc68ab9fec42",
+      "size": 318318024,
+      "notes": "## Spirit Masters 0.2.10"
     }
   ],
   "android": {
     "base": "1",
-    "latest_version": "0.2.9",
+    "latest_version": "0.2.10",
     "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/android-v0.2.3",
     "patches": [
       {
-        "id": "android-0009-0.2.9",
-        "version": "0.2.9",
-        "file": "android-0009-0.2.9.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.9/android-0009-0.2.9.pck",
-        "sha256": "ef34a9522361e9d59fd7df28a0c2a579f591b08ec2ec15a7180722a523f30259",
-        "size": 267261608,
-        "notes": "## Spirit Masters 0.2.9"
+        "id": "android-0010-0.2.10",
+        "version": "0.2.10",
+        "file": "android-0010-0.2.10.pck",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.10/android-0010-0.2.10.pck",
+        "sha256": "c68ac8afc19ffabea43912cda04028002f6cce94f1ba0a614a476956fd99ceab",
+        "size": 267266200,
+        "notes": "## Spirit Masters 0.2.10"
       }
     ]
   }

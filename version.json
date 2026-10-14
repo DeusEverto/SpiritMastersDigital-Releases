@@ -1,32 +1,29 @@
 {
   "schema_version": 1,
-  "base_version": "0.2.0",
+  "base_version": "0.2.11",
   "latest_version": "0.2.11",
-  "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.0",
-  "patches": [
-    {
-      "id": "0011-0.2.11",
-      "version": "0.2.11",
-      "file": "0011-0.2.11.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.11/0011-0.2.11.pck",
-      "sha256": "93c3cca806abfe693ffc5e7863c73bc237aa868dc05f34b0bc7c6ffa0a80e297",
-      "size": 318328656,
-      "notes": "## Spirit Masters 0.2.11"
-    }
-  ],
+  "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.11",
+  "patches": [],
   "android": {
-    "base": "1",
+    "base": "2",
     "latest_version": "0.2.11",
-    "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/android-v0.2.3",
-    "patches": [
+    "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.11",
+    "patches": []
+  },
+  "full_release": {
+    "version": "0.2.11",
+    "files": [
       {
-        "id": "android-0011-0.2.11",
-        "version": "0.2.11",
-        "file": "android-0011-0.2.11.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.11/android-0011-0.2.11.pck",
-        "sha256": "dc3cd862670e55329ea35532d6139f7c28c89d72a141d73df162bfb840b844f0",
-        "size": 267276832,
-        "notes": "## Spirit Masters 0.2.11"
+        "name": "SpiritMasters.exe",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.11/SpiritMasters.exe",
+        "sha256": "a41e0ba3da27d30242ca21668506a78cb9a4a7155d2e572f195a655cdb51b7f0",
+        "size": 104588800
+      },
+      {
+        "name": "SpiritMasters.pck",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.11/SpiritMasters.pck",
+        "sha256": "cec633c34c0587d1976ca2c9348a5e6a14b46abbf88e9acc1aece0d44668d195",
+        "size": 1528698420
       }
     ]
   }

@@ -1,32 +1,32 @@
 {
   "schema_version": 1,
   "base_version": "0.2.0",
-  "latest_version": "0.2.8",
+  "latest_version": "0.2.9",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.0",
   "patches": [
     {
-      "id": "0008-0.2.8",
-      "version": "0.2.8",
-      "file": "0008-0.2.8.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.8/0008-0.2.8.pck",
-      "sha256": "2cee4e8545461aa4b9b67d320ced1e15a8c3e4cd11f3dd52bffcaa57d567d77f",
-      "size": 316967152,
-      "notes": "## Spirit Masters 0.2.8"
+      "id": "0009-0.2.9",
+      "version": "0.2.9",
+      "file": "0009-0.2.9.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.9/0009-0.2.9.pck",
+      "sha256": "795987ef0172fa97d7b72bab928d0aa0e651030e6372cf343b8c722b66ce195e",
+      "size": 318366896,
+      "notes": "## Spirit Masters 0.2.9"
     }
   ],
   "android": {
     "base": "1",
-    "latest_version": "0.2.8",
+    "latest_version": "0.2.9",
     "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/android-v0.2.3",
     "patches": [
       {
-        "id": "android-0008-0.2.8",
-        "version": "0.2.8",
-        "file": "android-0008-0.2.8.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.8/android-0008-0.2.8.pck",
-        "sha256": "eaa02fd3e708123f89cc10b182156d7a6de5c374bf1aaf7c54331d0482b14506",
-        "size": 265859808,
-        "notes": "## Spirit Masters 0.2.8"
+        "id": "android-0009-0.2.9",
+        "version": "0.2.9",
+        "file": "android-0009-0.2.9.pck",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.9/android-0009-0.2.9.pck",
+        "sha256": "ef34a9522361e9d59fd7df28a0c2a579f591b08ec2ec15a7180722a523f30259",
+        "size": 267261608,
+        "notes": "## Spirit Masters 0.2.9"
       }
     ]
   }

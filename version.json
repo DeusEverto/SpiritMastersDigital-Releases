@@ -1,32 +1,32 @@
 {
   "schema_version": 1,
   "base_version": "0.2.0",
-  "latest_version": "0.2.7",
+  "latest_version": "0.2.8",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.0",
   "patches": [
     {
-      "id": "0007-0.2.7",
-      "version": "0.2.7",
-      "file": "0007-0.2.7.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.7/0007-0.2.7.pck",
-      "sha256": "63fbaaea9e5c2e6c44224d84349e31110ef69fe0caa9c9cba85c928e11f6f1a8",
-      "size": 315315732,
-      "notes": "Cards without effects no longer trigger, dice replace coin flips, a new update screen, and the card editor's dropdowns are back to normal."
+      "id": "0008-0.2.8",
+      "version": "0.2.8",
+      "file": "0008-0.2.8.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.8/0008-0.2.8.pck",
+      "sha256": "2cee4e8545461aa4b9b67d320ced1e15a8c3e4cd11f3dd52bffcaa57d567d77f",
+      "size": 316967152,
+      "notes": "## Spirit Masters 0.2.8"
     }
   ],
   "android": {
     "base": "1",
-    "latest_version": "0.2.7",
+    "latest_version": "0.2.8",
     "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/android-v0.2.3",
     "patches": [
       {
-        "id": "android-0007-0.2.7",
-        "version": "0.2.7",
-        "file": "android-0007-0.2.7.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.7/android-0007-0.2.7.pck",
-        "sha256": "32e2193a0004687e944264beacb0cbbadd66155b49ed7d4b125dfc9d5e5ef589",
-        "size": 264183412,
-        "notes": "Cards without effects no longer trigger, dice replace coin flips, a new update screen, and the card editor's dropdowns are back to normal."
+        "id": "android-0008-0.2.8",
+        "version": "0.2.8",
+        "file": "android-0008-0.2.8.pck",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.8/android-0008-0.2.8.pck",
+        "sha256": "eaa02fd3e708123f89cc10b182156d7a6de5c374bf1aaf7c54331d0482b14506",
+        "size": 265859808,
+        "notes": "## Spirit Masters 0.2.8"
       }
     ]
   }

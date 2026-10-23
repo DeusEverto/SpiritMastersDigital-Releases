@@ -1,14 +1,34 @@
 {
   "schema_version": 1,
   "base_version": "0.2.11",
-  "latest_version": "0.2.11",
+  "latest_version": "0.2.12",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.11",
-  "patches": [],
+  "patches": [
+    {
+      "id": "0001-0.2.12",
+      "version": "0.2.12",
+      "file": "0001-0.2.12.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.12/0001-0.2.12.pck",
+      "sha256": "ec6e7aa5400a5c51198ee6358ed401bd1f88871d501280e273180db3cc133e4d",
+      "size": 16045988,
+      "notes": "## Spirit Masters 0.2.12"
+    }
+  ],
   "android": {
     "base": "2",
-    "latest_version": "0.2.11",
+    "latest_version": "0.2.12",
     "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.11",
-    "patches": []
+    "patches": [
+      {
+        "id": "android-0001-0.2.12",
+        "version": "0.2.12",
+        "file": "android-0001-0.2.12.pck",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.12/android-0001-0.2.12.pck",
+        "sha256": "ec6e7aa5400a5c51198ee6358ed401bd1f88871d501280e273180db3cc133e4d",
+        "size": 16045988,
+        "notes": "## Spirit Masters 0.2.12"
+      }
+    ]
   },
   "full_release": {
     "version": "0.2.11",

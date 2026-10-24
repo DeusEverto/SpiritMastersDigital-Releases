@@ -1,32 +1,32 @@
 {
   "schema_version": 1,
   "base_version": "0.2.11",
-  "latest_version": "0.2.13",
+  "latest_version": "0.2.14",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.11",
   "patches": [
     {
-      "id": "0002-0.2.13",
-      "version": "0.2.13",
-      "file": "0002-0.2.13.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.13/0002-0.2.13.pck",
-      "sha256": "136a979d0bcd4a94bb7aad9e4ad4b1177e2815193efc4198e8294f68f7032b11",
-      "size": 25567816,
-      "notes": "Phone pop-ups that fit the screen, a cleaner card preview, Leader targets, and card art fixes."
+      "id": "0003-0.2.14",
+      "version": "0.2.14",
+      "file": "0003-0.2.14.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.14/0003-0.2.14.pck",
+      "sha256": "a97b99aec1068f9bf11d07c65e690e1f6310a2dfc46987c0fb0174fb2fe7d656",
+      "size": 25629912,
+      "notes": "Online fixes, a cleaner board, and readable zone labels."
     }
   ],
   "android": {
     "base": "2",
-    "latest_version": "0.2.13",
+    "latest_version": "0.2.14",
     "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.11",
     "patches": [
       {
-        "id": "android-0002-0.2.13",
-        "version": "0.2.13",
-        "file": "android-0002-0.2.13.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.13/android-0002-0.2.13.pck",
-        "sha256": "136a979d0bcd4a94bb7aad9e4ad4b1177e2815193efc4198e8294f68f7032b11",
-        "size": 25567816,
-        "notes": "Phone pop-ups that fit the screen, a cleaner card preview, Leader targets, and card art fixes."
+        "id": "android-0003-0.2.14",
+        "version": "0.2.14",
+        "file": "android-0003-0.2.14.pck",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.14/android-0003-0.2.14.pck",
+        "sha256": "a97b99aec1068f9bf11d07c65e690e1f6310a2dfc46987c0fb0174fb2fe7d656",
+        "size": 25629912,
+        "notes": "Online fixes, a cleaner board, and readable zone labels."
       }
     ]
   },

@@ -1,32 +1,32 @@
 {
   "schema_version": 1,
   "base_version": "0.2.11",
-  "latest_version": "0.2.12",
+  "latest_version": "0.2.13",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.11",
   "patches": [
     {
-      "id": "0001-0.2.12",
-      "version": "0.2.12",
-      "file": "0001-0.2.12.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.12/0001-0.2.12.pck",
-      "sha256": "ec6e7aa5400a5c51198ee6358ed401bd1f88871d501280e273180db3cc133e4d",
-      "size": 16045988,
-      "notes": "## Spirit Masters 0.2.12"
+      "id": "0002-0.2.13",
+      "version": "0.2.13",
+      "file": "0002-0.2.13.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.13/0002-0.2.13.pck",
+      "sha256": "136a979d0bcd4a94bb7aad9e4ad4b1177e2815193efc4198e8294f68f7032b11",
+      "size": 25567816,
+      "notes": "Phone pop-ups that fit the screen, a cleaner card preview, Leader targets, and card art fixes."
     }
   ],
   "android": {
     "base": "2",
-    "latest_version": "0.2.12",
+    "latest_version": "0.2.13",
     "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.11",
     "patches": [
       {
-        "id": "android-0001-0.2.12",
-        "version": "0.2.12",
-        "file": "android-0001-0.2.12.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.12/android-0001-0.2.12.pck",
-        "sha256": "ec6e7aa5400a5c51198ee6358ed401bd1f88871d501280e273180db3cc133e4d",
-        "size": 16045988,
-        "notes": "## Spirit Masters 0.2.12"
+        "id": "android-0002-0.2.13",
+        "version": "0.2.13",
+        "file": "android-0002-0.2.13.pck",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.13/android-0002-0.2.13.pck",
+        "sha256": "136a979d0bcd4a94bb7aad9e4ad4b1177e2815193efc4198e8294f68f7032b11",
+        "size": 25567816,
+        "notes": "Phone pop-ups that fit the screen, a cleaner card preview, Leader targets, and card art fixes."
       }
     ]
   },

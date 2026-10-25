@@ -1,22 +1,32 @@
 {
   "schema_version": 1,
   "base_version": "0.2.15",
-  "latest_version": "0.2.15",
+  "latest_version": "0.2.16",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.15",
-  "patches": [],
+  "patches": [
+    {
+      "id": "0001-0.2.16",
+      "version": "0.2.16",
+      "file": "0001-0.2.16.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.16/0001-0.2.16.pck",
+      "sha256": "f93b4060b3624da314ddffc6fe076153001dd792940d9ee30c1621a56f85e7ce",
+      "size": 7271520,
+      "notes": "## Spirit Masters 0.2.16"
+    }
+  ],
   "android": {
     "base": "2",
-    "latest_version": "0.2.15",
+    "latest_version": "0.2.16",
     "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.11",
     "patches": [
       {
-        "id": "android-0004-0.2.15",
-        "version": "0.2.15",
-        "file": "android-0004-0.2.15.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.15/android-0004-0.2.15.pck",
-        "sha256": "c10e5471c139176e32b238d020f2cd677ca715b3f13cb142bcb61ae9cffc9190",
-        "size": 66137156,
-        "notes": "A much smaller full game: about 260 MB instead of 1.6 GB."
+        "id": "android-0001-0.2.16",
+        "version": "0.2.16",
+        "file": "android-0001-0.2.16.pck",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.16/android-0001-0.2.16.pck",
+        "sha256": "e11b8dbbbf963c66c25be0189231b63dfb9480e9381d6d5b281291bfae5a3918",
+        "size": 68755492,
+        "notes": "## Spirit Masters 0.2.16"
       }
     ]
   },

@@ -1,49 +1,39 @@
 {
   "schema_version": 1,
-  "base_version": "0.2.11",
-  "latest_version": "0.2.14",
-  "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.11",
-  "patches": [
-    {
-      "id": "0003-0.2.14",
-      "version": "0.2.14",
-      "file": "0003-0.2.14.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.14/0003-0.2.14.pck",
-      "sha256": "a97b99aec1068f9bf11d07c65e690e1f6310a2dfc46987c0fb0174fb2fe7d656",
-      "size": 25629912,
-      "notes": "Online fixes, a cleaner board, and readable zone labels."
-    }
-  ],
+  "base_version": "0.2.15",
+  "latest_version": "0.2.15",
+  "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.15",
+  "patches": [],
   "android": {
     "base": "2",
-    "latest_version": "0.2.14",
+    "latest_version": "0.2.15",
     "release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.11",
     "patches": [
       {
-        "id": "android-0003-0.2.14",
-        "version": "0.2.14",
-        "file": "android-0003-0.2.14.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.14/android-0003-0.2.14.pck",
-        "sha256": "a97b99aec1068f9bf11d07c65e690e1f6310a2dfc46987c0fb0174fb2fe7d656",
-        "size": 25629912,
-        "notes": "Online fixes, a cleaner board, and readable zone labels."
+        "id": "android-0004-0.2.15",
+        "version": "0.2.15",
+        "file": "android-0004-0.2.15.pck",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.15/android-0004-0.2.15.pck",
+        "sha256": "c10e5471c139176e32b238d020f2cd677ca715b3f13cb142bcb61ae9cffc9190",
+        "size": 66137156,
+        "notes": "A much smaller full game: about 260 MB instead of 1.6 GB."
       }
     ]
   },
   "full_release": {
-    "version": "0.2.11",
+    "version": "0.2.15",
     "files": [
       {
         "name": "SpiritMasters.exe",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.11/SpiritMasters.exe",
-        "sha256": "a41e0ba3da27d30242ca21668506a78cb9a4a7155d2e572f195a655cdb51b7f0",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.15/SpiritMasters.exe",
+        "sha256": "93fd5033ca879e1d7c2a8aa30e5ff3ced5d1b8a670b24f2ac1bf29de3b05e9e0",
         "size": 104588800
       },
       {
         "name": "SpiritMasters.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.11/SpiritMasters.pck",
-        "sha256": "cec633c34c0587d1976ca2c9348a5e6a14b46abbf88e9acc1aece0d44668d195",
-        "size": 1528698420
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.15/SpiritMasters.pck",
+        "sha256": "f7a5d748d5ffb221e1661003abdb5dbfb610b2c52052f5478811b97f1bab7732",
+        "size": 159722132
       }
     ]
   }

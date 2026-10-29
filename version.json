@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.25",
+  "latest_version": "0.2.26",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0006-0.2.25",
-      "version": "0.2.25",
-      "file": "0006-0.2.25.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.25/0006-0.2.25.pck",
-      "sha256": "7d9f9c3da32b4d3e781f3f55dc30d506101c2281757f48294242bef7552abd80",
-      "size": 68755468,
-      "notes": "## Spirit Masters 0.2.25"
+      "id": "0007-0.2.26",
+      "version": "0.2.26",
+      "file": "0007-0.2.26.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.26/0007-0.2.26.pck",
+      "sha256": "19668fb10f10b70422ae63f0d6be7e292ada12c9329643401ef415696ae5c9cc",
+      "size": 68954828,
+      "notes": "## Spirit Masters 0.2.26"
     }
   ],
   "android": {

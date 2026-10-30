@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.26",
+  "latest_version": "0.2.27",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0007-0.2.26",
-      "version": "0.2.26",
-      "file": "0007-0.2.26.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.26/0007-0.2.26.pck",
-      "sha256": "19668fb10f10b70422ae63f0d6be7e292ada12c9329643401ef415696ae5c9cc",
-      "size": 68954828,
-      "notes": "## Spirit Masters 0.2.26"
+      "id": "0008-0.2.27",
+      "version": "0.2.27",
+      "file": "0008-0.2.27.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.27/0008-0.2.27.pck",
+      "sha256": "ddc47c62190e1eaff40299e2cb16bdd2229b8439255c324e943f49bd1367bf80",
+      "size": 84794492,
+      "notes": "Spirit Masters 0.2.27 fixes graveyard and Void summon turn handoffs."
     }
   ],
   "android": {

@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.28",
+  "latest_version": "0.2.29",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0009-0.2.28",
-      "version": "0.2.28",
-      "file": "0009-0.2.28.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.28/0009-0.2.28.pck",
-      "sha256": "708647bad0e3d9269e504c1427c8637b7fe4c2551e8874b99708acd916b0ea05",
-      "size": 85138316,
-      "notes": "Spirit Masters 0.2.28 adds deck card-version selection."
+      "id": "0010-0.2.29",
+      "version": "0.2.29",
+      "file": "0010-0.2.29.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.29/0010-0.2.29.pck",
+      "sha256": "6ea3c581f9657fb77f3d02691859db846198b6bd29522f9d022940cc75f85048",
+      "size": 116555436,
+      "notes": "Spirit Masters 0.2.29"
     }
   ],
   "android": {

@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.29",
+  "latest_version": "0.2.30",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0010-0.2.29",
-      "version": "0.2.29",
-      "file": "0010-0.2.29.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.29/0010-0.2.29.pck",
-      "sha256": "6ea3c581f9657fb77f3d02691859db846198b6bd29522f9d022940cc75f85048",
-      "size": 116555436,
-      "notes": "Spirit Masters 0.2.29"
+      "id": "0011-0.2.30",
+      "version": "0.2.30",
+      "file": "0011-0.2.30.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.30/0011-0.2.30.pck",
+      "sha256": "4f1d968d1716f392f13e5cde12192b2bb3954d0f14cbb8bb2994c07d68926d69",
+      "size": 116646668,
+      "notes": "What's new:\n\u2022 Finished challenges, quests and achievements now pop up a notice, with View Progress to claim them.\n\u2022 Progress: Claim all, and your coins fly into your coin counter.\n\u2022 Deck editor: Randomize deck builds a random legal deck (2 Leaders, 50 cards).\n\u2022 Messages from the creators now show on the main menu.\n\u2022 The update screen now shows what's new while it installs."
     }
   ],
   "android": {

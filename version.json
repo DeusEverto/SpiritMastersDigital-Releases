@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.30",
+  "latest_version": "0.2.31",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0011-0.2.30",
-      "version": "0.2.30",
-      "file": "0011-0.2.30.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.30/0011-0.2.30.pck",
-      "sha256": "4f1d968d1716f392f13e5cde12192b2bb3954d0f14cbb8bb2994c07d68926d69",
-      "size": 116646668,
-      "notes": "What's new:\n\u2022 Finished challenges, quests and achievements now pop up a notice, with View Progress to claim them.\n\u2022 Progress: Claim all, and your coins fly into your coin counter.\n\u2022 Deck editor: Randomize deck builds a random legal deck (2 Leaders, 50 cards).\n\u2022 Messages from the creators now show on the main menu.\n\u2022 The update screen now shows what's new while it installs."
+      "id": "0012-0.2.31",
+      "version": "0.2.31",
+      "file": "0012-0.2.31.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.31/0012-0.2.31.pck",
+      "sha256": "a69741d403b8bcefae3f9187dd5776ddcff25ba7950576efffa548419ce0d738",
+      "size": 116730908,
+      "notes": "What's new:\n\u2022 Phones: the main menu's cards no longer sit under the coins, Friends and profile.\n\u2022 Phones: messages from the creators show under the main menu's cards.\n\u2022 Phones: the card editor fills the screen with slimmer fields, and the Card Library folds away.\n\u2022 Phones: Settings has its tabs down the side and finger-sized sliders."
     }
   ],
   "android": {

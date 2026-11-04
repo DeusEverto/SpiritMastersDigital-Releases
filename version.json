@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.34",
+  "latest_version": "0.2.35",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0014-0.2.34",
-      "version": "0.2.34",
-      "file": "0014-0.2.34.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.34/0014-0.2.34.pck",
-      "sha256": "6896902845158922e9bd3f97c8b4c3f3ae929a24b34cb5aabe78d2c152753927",
-      "size": 235953116,
-      "notes": "What's new:\n\u2022 New Stats page in Progress: your games, win rate, streaks, modes, cards, colours, Leaders and combat, online and against the AI\n\u2022 Games against the AI now have their own daily challenges, weekly quests and achievements, and progress is always whole numbers\n\u2022 Feedback button on the main menu: send your ideas straight to the team\n\u2022 Quit now asks before closing the game\n\u2022 The creators' message box fits better on computers\n\u2022 Update notes are bigger and easier to read\n\u2022 The card preview in a match closes with a tap on phones"
+      "id": "0015-0.2.35",
+      "version": "0.2.35",
+      "file": "0015-0.2.35.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.35/0015-0.2.35.pck",
+      "sha256": "4d445a5ebd1c2527c4b719e41b9cced099cbc39b8a93c84e442e79b706959a9a",
+      "size": 235986732,
+      "notes": "What's new:\n\u2022 News: patch notes and events from the team, right on the main menu\n\u2022 Daily login rewards: coins every day you play, more each day of your streak\n\u2022 Card wishlist: mark cards you want in the card close-up, and they light up when you pull them\n\u2022 Deck codes: share a deck as one line of text from the Deck Manager's new Deck code button\n\u2022 Settings > Gameplay: confirm before ending your turn with moves left, AI speed, and mute in the background\n\u2022 Match highlights after every game: turns, cards played, damage, Spirits destroyed, biggest hit and your MVP card\n\u2022 Games against the AI now count their cards toward quests and Stats\n\u2022 Fixes for Nemesis Cataclysms and the Progress tabs"
     }
   ],
   "android": {

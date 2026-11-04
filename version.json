@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.33",
+  "latest_version": "0.2.34",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0013-0.2.33",
-      "version": "0.2.33",
-      "file": "0013-0.2.33.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.33/0013-0.2.33.pck",
-      "sha256": "1b0388dc5c176a5f5dda5a79d854aaff6fde2b7beb8ba0f50b166f8fcf64d33d",
-      "size": 262930988,
-      "notes": "What's new:\n\u2022 Leader card backs: rep your favourite Leader with 30 new animated full-art card backs (Customize > Leader card back)\n\u2022 Lightning damage now strikes with real lightning\n\u2022 Sealed and Draft: choose the table size, fill empty seats with AI at the difficulty you pick (local and online), and play Swiss rounds to a winner\n\u2022 Online Draft picks look like local Draft, and online Sealed opens your packs first\n\u2022 New \"each opponent chooses\" effects; picking your own cards now glows them on the board, then you confirm with the card shown\n\u2022 Quick Match is now a \"half Leader HP\" option in Match Setup and online\n\u2022 Nemesis fixes: The Blight King no longer joins its own deck, full match History, nicer ally fields with HP\n\u2022 Phones: drag or hold to scroll, pinch to zoom, long-press for tooltips, and zoom and drag on every board\n...and more."
+      "id": "0014-0.2.34",
+      "version": "0.2.34",
+      "file": "0014-0.2.34.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.34/0014-0.2.34.pck",
+      "sha256": "6896902845158922e9bd3f97c8b4c3f3ae929a24b34cb5aabe78d2c152753927",
+      "size": 235953116,
+      "notes": "What's new:\n\u2022 New Stats page in Progress: your games, win rate, streaks, modes, cards, colours, Leaders and combat, online and against the AI\n\u2022 Games against the AI now have their own daily challenges, weekly quests and achievements, and progress is always whole numbers\n\u2022 Feedback button on the main menu: send your ideas straight to the team\n\u2022 Quit now asks before closing the game\n\u2022 The creators' message box fits better on computers\n\u2022 Update notes are bigger and easier to read\n\u2022 The card preview in a match closes with a tap on phones"
     }
   ],
   "android": {

@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.35",
+  "latest_version": "0.2.36",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0015-0.2.35",
-      "version": "0.2.35",
-      "file": "0015-0.2.35.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.35/0015-0.2.35.pck",
-      "sha256": "4d445a5ebd1c2527c4b719e41b9cced099cbc39b8a93c84e442e79b706959a9a",
-      "size": 235986732,
-      "notes": "What's new:\n\u2022 News: patch notes and events from the team, right on the main menu\n\u2022 Daily login rewards: coins every day you play, more each day of your streak\n\u2022 Card wishlist: mark cards you want in the card close-up, and they light up when you pull them\n\u2022 Deck codes: share a deck as one line of text from the Deck Manager's new Deck code button\n\u2022 Settings > Gameplay: confirm before ending your turn with moves left, AI speed, and mute in the background\n\u2022 Match highlights after every game: turns, cards played, damage, Spirits destroyed, biggest hit and your MVP card\n\u2022 Games against the AI now count their cards toward quests and Stats\n\u2022 Fixes for Nemesis Cataclysms and the Progress tabs"
+      "id": "0016-0.2.36",
+      "version": "0.2.36",
+      "file": "0016-0.2.36.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.36/0016-0.2.36.pck",
+      "sha256": "b6451356c8f71a4c9d397d4c39c5b105bd003317b7bc581ddad4988c946d86f2",
+      "size": 236143468,
+      "notes": "What's new:\n\u2022 25 new attack animations picked by class: gunfire, revolver, sniper, cannon, energy cannon, blasters, arrows, magic, fire, frost, lightning, pecking birds and more\n\u2022 Each attack style has its own sounds and leaves its own mark on the card it hits\n\u2022 New summon landing: energy in the card's colour streams out from under it as it lands\n\u2022 Sharper targeting aim when choosing what to attack or target\n\u2022 A card that drops to 0 HP paying its own damage cost (like Victor Blackwood) now resolves its ability, then is destroyed\n\u2022 Card editor: choose any card's attack animation, and saving no longer clears a card's flavor text"
     }
   ],
   "android": {

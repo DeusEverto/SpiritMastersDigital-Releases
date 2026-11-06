@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.36",
+  "latest_version": "0.2.37",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0016-0.2.36",
-      "version": "0.2.36",
-      "file": "0016-0.2.36.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.36/0016-0.2.36.pck",
-      "sha256": "b6451356c8f71a4c9d397d4c39c5b105bd003317b7bc581ddad4988c946d86f2",
-      "size": 236143468,
-      "notes": "What's new:\n\u2022 25 new attack animations picked by class: gunfire, revolver, sniper, cannon, energy cannon, blasters, arrows, magic, fire, frost, lightning, pecking birds and more\n\u2022 Each attack style has its own sounds and leaves its own mark on the card it hits\n\u2022 New summon landing: energy in the card's colour streams out from under it as it lands\n\u2022 Sharper targeting aim when choosing what to attack or target\n\u2022 A card that drops to 0 HP paying its own damage cost (like Victor Blackwood) now resolves its ability, then is destroyed\n\u2022 Card editor: choose any card's attack animation, and saving no longer clears a card's flavor text"
+      "id": "0017-0.2.37",
+      "version": "0.2.37",
+      "file": "0017-0.2.37.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.37/0017-0.2.37.pck",
+      "sha256": "f5c89139064d9c61380a13e8a5eb50ca274c1281477020fc40fb9be678e71a28",
+      "size": 236228812,
+      "notes": "What's new:\n\u2022 44 new attack animations: elemental slams for giants and elementals (fire, frost, water, earth, wind, lightning, nature, shadow, cosmic and sweet)\n\u2022 Blades and weapons: axe cleave, sword slash, dagger stabs, scythe reap, spear throw, shuriken, goblin bomb, lasso, missile strike and a magic trick\n\u2022 Creatures: bite, pounce and rake, horn charge, burrow, bounce squash, shell spin, roar, tail smash, bubbles, ink, constrict, web shot and laser eyes\n\u2022 Spells and spirits: dark orb blast, soul drain, hellfire, holy smite, fairy dust, meteor shower, black hole, heart blast, tractor beam and bone toss\n\u2022 Most Spirits and Leaders now get an animation that fits their class; any card can pick one in the card editor\n\u2022 Flooding and Bubble Wand now last through the opponent's whole next turn (they wore off as it began)"
     }
   ],
   "android": {

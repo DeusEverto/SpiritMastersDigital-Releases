@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.37",
+  "latest_version": "0.2.38",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0017-0.2.37",
-      "version": "0.2.37",
-      "file": "0017-0.2.37.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.37/0017-0.2.37.pck",
-      "sha256": "f5c89139064d9c61380a13e8a5eb50ca274c1281477020fc40fb9be678e71a28",
-      "size": 236228812,
-      "notes": "What's new:\n\u2022 44 new attack animations: elemental slams for giants and elementals (fire, frost, water, earth, wind, lightning, nature, shadow, cosmic and sweet)\n\u2022 Blades and weapons: axe cleave, sword slash, dagger stabs, scythe reap, spear throw, shuriken, goblin bomb, lasso, missile strike and a magic trick\n\u2022 Creatures: bite, pounce and rake, horn charge, burrow, bounce squash, shell spin, roar, tail smash, bubbles, ink, constrict, web shot and laser eyes\n\u2022 Spells and spirits: dark orb blast, soul drain, hellfire, holy smite, fairy dust, meteor shower, black hole, heart blast, tractor beam and bone toss\n\u2022 Most Spirits and Leaders now get an animation that fits their class; any card can pick one in the card editor\n\u2022 Flooding and Bubble Wand now last through the opponent's whole next turn (they wore off as it began)"
+      "id": "0018-0.2.38",
+      "version": "0.2.38",
+      "file": "0018-0.2.38.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.38/0018-0.2.38.pck",
+      "sha256": "9696a4e880424b86a647506824ae983609a85cad924443cd2aed63439b9d76b0",
+      "size": 236108156,
+      "notes": "What's new:\n\u2022 Online Sealed: the build timer is shown while you open packs and build; a deck not finished in time forfeits and the opponent wins that round\n\u2022 Online Draft and Sealed: every player is put into their round match at the same time (some were left waiting in the lobby)\n\u2022 Online games stay quick late in the game (updates sent to players are much smaller)\n\u2022 \"There is no valid target\" notice: an effect with nothing to target is skipped and the game carries on\n\u2022 Buy packs 1, 5 or 10 at a time and open them one by one\n\u2022 New achievement for completing the tutorial (150 coins)\n\u2022 Draft: your drafted cards scroll and show a preview on hover\n\u2022 Sealed deck builder: bigger, brighter page arrows\n...and more."
     }
   ],
   "android": {

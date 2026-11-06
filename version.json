@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.38",
+  "latest_version": "0.2.39",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0018-0.2.38",
-      "version": "0.2.38",
-      "file": "0018-0.2.38.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.38/0018-0.2.38.pck",
-      "sha256": "9696a4e880424b86a647506824ae983609a85cad924443cd2aed63439b9d76b0",
-      "size": 236108156,
-      "notes": "What's new:\n\u2022 Online Sealed: the build timer is shown while you open packs and build; a deck not finished in time forfeits and the opponent wins that round\n\u2022 Online Draft and Sealed: every player is put into their round match at the same time (some were left waiting in the lobby)\n\u2022 Online games stay quick late in the game (updates sent to players are much smaller)\n\u2022 \"There is no valid target\" notice: an effect with nothing to target is skipped and the game carries on\n\u2022 Buy packs 1, 5 or 10 at a time and open them one by one\n\u2022 New achievement for completing the tutorial (150 coins)\n\u2022 Draft: your drafted cards scroll and show a preview on hover\n\u2022 Sealed deck builder: bigger, brighter page arrows\n...and more."
+      "id": "0019-0.2.39",
+      "version": "0.2.39",
+      "file": "0019-0.2.39.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.39/0019-0.2.39.pck",
+      "sha256": "7e6bd362b0433459b5cf614ecdfc8395118e8ab22452f4d41f67f031523b5d86",
+      "size": 236173612,
+      "notes": "What's new:\n\u2022 Sealed/Draft: after building you return to the lobby, pick the Leader for your next game and press Ready (before every round)\n\u2022 Deck Editor: choose a sleeve (card back) for each deck; Default uses your Customize choice\n\u2022 My Decks: right-click a deck to open, rename, move, copy its deck code or delete it\n\u2022 Deck Editor, Sealed and Draft builders now match: big page arrows and card previews on deck-list rows; Randomize builds from your pool in Sealed/Draft\n\u2022 Draft lists look like the Deck Editor's and show the card when you hover a row\n\u2022 Player names are shown beside each Leader in matches\n\u2022 Holding a card to inspect it in the Deck Editor takes 1.5 seconds\n\u2022 Achievement and challenge notices wait until you're back at the menu or lobby\n...and more."
     }
   ],
   "android": {

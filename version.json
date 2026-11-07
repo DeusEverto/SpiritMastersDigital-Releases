@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.40",
+  "latest_version": "0.2.41",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0020-0.2.40",
-      "version": "0.2.40",
-      "file": "0020-0.2.40.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.40/0020-0.2.40.pck",
-      "sha256": "ea817f973b5dee9b1a66a563c8231c84bc3cce4b2560b4141f9b471c2bae5182",
-      "size": 239566828,
-      "notes": "What's new:\n\u2022 New battle music in every match\n\u2022 News is now your inbox: patch notes for every update, unread markers, and gifts you can claim\n\u2022 Loony Llama works as written: your play sets its ATK to 1, an opponent's play doubles it, and both changes last\n\u2022 A once-per-turn ability that's already been used simply doesn't trigger again that turn\n\u2022 Gust of Wind can target equipped Equipment (it goes back to its owner's hand)\n\u2022 Vex lets you choose a non-Spirit, and that card is discarded (not erased)\n\u2022 Devil on your Shoulder: the Spirit you take slides across the table instead of breaking apart"
+      "id": "0021-0.2.41",
+      "version": "0.2.41",
+      "file": "0021-0.2.41.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.41/0021-0.2.41.pck",
+      "sha256": "7db2b68893b18929054a6d7cb39eca52c1a7f2e1aae58cc4a64a6f4267d7b78e",
+      "size": 240880844,
+      "notes": "What's new:\n\u2022 Controller support: play the whole game with an Xbox, PlayStation or Nintendo controller. A highlight moves between buttons and cards, and button marks match your controller\n\u2022 Controller layout: A select, B back / No Guard, X hold to inspect, Y options, LB/RB jump between hand and sides or tabs, hold Menu to end your turn\n\u2022 On-screen keyboard for naming decks and writing with a controller on PC\n\u2022 New setting: Settings > Gameplay > Controller button prompts\n\u2022 Sealed and Draft: you open a Leader Pack first (4 Leaders), and the other packs no longer contain Leaders\n\u2022 Draft is now 6 packs (48 picks)\n\u2022 Sealed and Draft: choose Standard or Epic packs for the whole run (hosts choose for online events)\n\u2022 Sealed & Draft now share one main menu tile with a choice of the two; Tutorial sits under Play vs AI\n...and more."
     }
   ],
   "android": {
@@ -62,6 +62,11 @@
       "version": "0.2.40",
       "text": "- New battle music in every match\n- News is now your inbox: patch notes for every update, unread markers, and gifts you can claim\n- Loony Llama works as written: your play sets its ATK to 1, an opponent's play doubles it, and both changes last\n- A once-per-turn ability that's already been used simply doesn't trigger again that turn\n- Gust of Wind can target equipped Equipment (it goes back to its owner's hand)\n- Vex lets you choose a non-Spirit, and that card is discarded (not erased)\n- Devil on your Shoulder: the Spirit you take slides across the table instead of breaking apart",
       "at": 1793976302698
+    },
+    {
+      "version": "0.2.41",
+      "text": "- Controller support: play the whole game with an Xbox, PlayStation or Nintendo controller. A highlight moves between buttons and cards, and button marks match your controller\n- Controller layout: A select, B back / No Guard, X hold to inspect, Y options, LB/RB jump between hand and sides or tabs, hold Menu to end your turn\n- On-screen keyboard for naming decks and writing with a controller on PC\n- New setting: Settings > Gameplay > Controller button prompts\n- Sealed and Draft: you open a Leader Pack first (4 Leaders), and the other packs no longer contain Leaders\n- Draft is now 6 packs (48 picks)\n- Sealed and Draft: choose Standard or Epic packs for the whole run (hosts choose for online events)\n- Sealed & Draft now share one main menu tile with a choice of the two; Tutorial sits under Play vs AI\n- The Drafted list is wider, in the Deck Manager's look\n- Deck Manager pages show four full rows of cards\n- No Guard moved to the right side, where End Turn sits\n- A card held up with its buttons stays in front of the rest of your hand\n- Targeting highlights are tighter and a little softer\n- Card inspector shows cards sharper\n- Fixed: Feedback could not be sent\n- Card update: Sea-Man, Ruler of the Depths",
+      "at": 1794033731441
     }
   ]
 }

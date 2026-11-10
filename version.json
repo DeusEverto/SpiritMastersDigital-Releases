@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.41",
+  "latest_version": "0.2.42",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0021-0.2.41",
-      "version": "0.2.41",
-      "file": "0021-0.2.41.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.41/0021-0.2.41.pck",
-      "sha256": "7db2b68893b18929054a6d7cb39eca52c1a7f2e1aae58cc4a64a6f4267d7b78e",
-      "size": 240880844,
-      "notes": "What's new:\n\u2022 Controller support: play the whole game with an Xbox, PlayStation or Nintendo controller. A highlight moves between buttons and cards, and button marks match your controller\n\u2022 Controller layout: A select, B back / No Guard, X hold to inspect, Y options, LB/RB jump between hand and sides or tabs, hold Menu to end your turn\n\u2022 On-screen keyboard for naming decks and writing with a controller on PC\n\u2022 New setting: Settings > Gameplay > Controller button prompts\n\u2022 Sealed and Draft: you open a Leader Pack first (4 Leaders), and the other packs no longer contain Leaders\n\u2022 Draft is now 6 packs (48 picks)\n\u2022 Sealed and Draft: choose Standard or Epic packs for the whole run (hosts choose for online events)\n\u2022 Sealed & Draft now share one main menu tile with a choice of the two; Tutorial sits under Play vs AI\n...and more."
+      "id": "0022-0.2.42",
+      "version": "0.2.42",
+      "file": "0022-0.2.42.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.42/0022-0.2.42.pck",
+      "sha256": "8b13cba3afca7229e0cfa4a9b426c031036655e7b2210def937bcf934d38737e",
+      "size": 243949628,
+      "notes": "What's new:\n\u2022 Mobile menus, deck building, Match Setup and the battle HUD have more compact layouts, with fewer oversized controls and overlapping panels.\n\u2022 Controller navigation now stays inside choices and targeting. Hand cards move in order, raised cards lower when you move away, and B rests the same card without raising its neighbour.\n\u2022 Hold Y to end your turn; tap Y to minimize or restore a choice overlay. Minimize and End Turn are no longer directional focus stops. Start opens the match menu.\n\u2022 Controller button icons are larger. Summon and Play buttons have a cleaner design, appear highlighted immediately, and their outlines follow the card throughout its lift.\n\u2022 Opening hands start with the middle card highlighted. Card highlights follow their actual shapes, stay behind inspection previews, and remain inside scrolling lists such as the graveyard.\n...and more."
     }
   ],
   "android": {
@@ -67,6 +67,11 @@
       "version": "0.2.41",
       "text": "- Controller support: play the whole game with an Xbox, PlayStation or Nintendo controller. A highlight moves between buttons and cards, and button marks match your controller\n- Controller layout: A select, B back / No Guard, X hold to inspect, Y options, LB/RB jump between hand and sides or tabs, hold Menu to end your turn\n- On-screen keyboard for naming decks and writing with a controller on PC\n- New setting: Settings > Gameplay > Controller button prompts\n- Sealed and Draft: you open a Leader Pack first (4 Leaders), and the other packs no longer contain Leaders\n- Draft is now 6 packs (48 picks)\n- Sealed and Draft: choose Standard or Epic packs for the whole run (hosts choose for online events)\n- Sealed & Draft now share one main menu tile with a choice of the two; Tutorial sits under Play vs AI\n- The Drafted list is wider, in the Deck Manager's look\n- Deck Manager pages show four full rows of cards\n- No Guard moved to the right side, where End Turn sits\n- A card held up with its buttons stays in front of the rest of your hand\n- Targeting highlights are tighter and a little softer\n- Card inspector shows cards sharper\n- Fixed: Feedback could not be sent\n- Card update: Sea-Man, Ruler of the Depths",
       "at": 1794033731441
+    },
+    {
+      "version": "0.2.42",
+      "text": "Spirit Masters 0.2.42\n\n- Mobile menus, deck building, Match Setup and the battle HUD have more compact layouts, with fewer oversized controls and overlapping panels.\n- Controller navigation now stays inside choices and targeting. Hand cards move in order, raised cards lower when you move away, and B rests the same card without raising its neighbour.\n- Hold Y to end your turn; tap Y to minimize or restore a choice overlay. Minimize and End Turn are no longer directional focus stops. Start opens the match menu.\n- Controller button icons are larger. Summon and Play buttons have a cleaner design, appear highlighted immediately, and their outlines follow the card throughout its lift.\n- Opening hands start with the middle card highlighted. Card highlights follow their actual shapes, stay behind inspection previews, and remain inside scrolling lists such as the graveyard.\n- Favorite decks from their options menu: starred decks appear first in My Decks and deck selection. The editor shows Unsaved changes beside the deck name and only asks before closing when edits remain unsaved.\n- Deck boxes have visual cosmetic choices and an opening three-card showcase. Deck displays are larger and keep showcase cards clear of the folder panel.\n- Test opening hands and mulligans in the deck editor, with expanded deck statistics and NRG charts.\n- Card inspection explains current stats, counters and temporary modifiers, including their sources and expiry.\n- Effects wait for the action they react to, including its animations, to finish. Grave of Archenvale waits until the current effect finishes resolving, including all Wicked Donation discards.\n- Milling now moves a face-down card from the deck to the graveyard and flips it face-up before landing. Overrun damage has its own presentation, and attack declarations no longer grey out the field.\n- Mobile effect choices and pending-effect details take up less of the board. Invalid effect targets are easier to distinguish, and Match Setup cards can be inspected on each input device.\n- Controller ownership persists until real mouse movement. Resting the mouse over the hand no longer raises another card or cancels a menu tile's controller hover.\n- Card Editor timing filters support more detail, including fixed-number and card-to-card comparisons. Updated card data and artwork are included.\n- Lower default music loudness and green ready-to-attack highlights.\n- Removed the VFX Forge editor and its unused presets.",
+      "at": 1794347089275
     }
   ]
 }

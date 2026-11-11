@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.42",
+  "latest_version": "0.2.43",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0022-0.2.42",
-      "version": "0.2.42",
-      "file": "0022-0.2.42.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.42/0022-0.2.42.pck",
-      "sha256": "8b13cba3afca7229e0cfa4a9b426c031036655e7b2210def937bcf934d38737e",
-      "size": 243949628,
-      "notes": "What's new:\n\u2022 Mobile menus, deck building, Match Setup and the battle HUD have more compact layouts, with fewer oversized controls and overlapping panels.\n\u2022 Controller navigation now stays inside choices and targeting. Hand cards move in order, raised cards lower when you move away, and B rests the same card without raising its neighbour.\n\u2022 Hold Y to end your turn; tap Y to minimize or restore a choice overlay. Minimize and End Turn are no longer directional focus stops. Start opens the match menu.\n\u2022 Controller button icons are larger. Summon and Play buttons have a cleaner design, appear highlighted immediately, and their outlines follow the card throughout its lift.\n\u2022 Opening hands start with the middle card highlighted. Card highlights follow their actual shapes, stay behind inspection previews, and remain inside scrolling lists such as the graveyard.\n...and more."
+      "id": "0023-0.2.43",
+      "version": "0.2.43",
+      "file": "0023-0.2.43.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.43/0023-0.2.43.pck",
+      "sha256": "a40eb8e6e7bfb7081996bb7eb457fef73fcd3c400b7ca4fd7b1137a44302affe",
+      "size": 246481404,
+      "notes": "What's new:\n\u2022 New mode: Cube. Build your own cube (up to 4 copies of a card, sized for 2-8 players), share it with a cube code, then play it as a Draft or Sealed run. Cube cards are only for the run.\n\u2022 Leader mastery: win with a Leader to level it up to mastery 10. Every level pays coins; level 5 gives its full-art sleeve, level 10 its title and a Shatterfoil Rare of the Leader. Mastery badges show beside Leaders in matches and on profiles.\n\u2022 Collection milestones: Progress > Collection tracks each colour and BP01. Coins at 25/50/75/100%; a full colour gives its Mastery frame and playmat, and with its colour challenge done, its title.\n\u2022 Spectate: a friend's profile now has a Spectate button while they play, including games against the AI.\n\u2022 New Overrun and Bite animations.\n\u2022 The AI no longer guards every attack on a healthy Leader.\n...and more."
     }
   ],
   "android": {
@@ -72,6 +72,11 @@
       "version": "0.2.42",
       "text": "Spirit Masters 0.2.42\n\n- Mobile menus, deck building, Match Setup and the battle HUD have more compact layouts, with fewer oversized controls and overlapping panels.\n- Controller navigation now stays inside choices and targeting. Hand cards move in order, raised cards lower when you move away, and B rests the same card without raising its neighbour.\n- Hold Y to end your turn; tap Y to minimize or restore a choice overlay. Minimize and End Turn are no longer directional focus stops. Start opens the match menu.\n- Controller button icons are larger. Summon and Play buttons have a cleaner design, appear highlighted immediately, and their outlines follow the card throughout its lift.\n- Opening hands start with the middle card highlighted. Card highlights follow their actual shapes, stay behind inspection previews, and remain inside scrolling lists such as the graveyard.\n- Favorite decks from their options menu: starred decks appear first in My Decks and deck selection. The editor shows Unsaved changes beside the deck name and only asks before closing when edits remain unsaved.\n- Deck boxes have visual cosmetic choices and an opening three-card showcase. Deck displays are larger and keep showcase cards clear of the folder panel.\n- Test opening hands and mulligans in the deck editor, with expanded deck statistics and NRG charts.\n- Card inspection explains current stats, counters and temporary modifiers, including their sources and expiry.\n- Effects wait for the action they react to, including its animations, to finish. Grave of Archenvale waits until the current effect finishes resolving, including all Wicked Donation discards.\n- Milling now moves a face-down card from the deck to the graveyard and flips it face-up before landing. Overrun damage has its own presentation, and attack declarations no longer grey out the field.\n- Mobile effect choices and pending-effect details take up less of the board. Invalid effect targets are easier to distinguish, and Match Setup cards can be inspected on each input device.\n- Controller ownership persists until real mouse movement. Resting the mouse over the hand no longer raises another card or cancels a menu tile's controller hover.\n- Card Editor timing filters support more detail, including fixed-number and card-to-card comparisons. Updated card data and artwork are included.\n- Lower default music loudness and green ready-to-attack highlights.\n- Removed the VFX Forge editor and its unused presets.",
       "at": 1794347089275
+    },
+    {
+      "version": "0.2.43",
+      "text": "0.2.43\n- New mode: Cube. Build your own cube (up to 4 copies of a card, sized for 2-8 players), share it with a cube code, then play it as a Draft or Sealed run. Cube cards are only for the run.\n- Leader mastery: win with a Leader to level it up to mastery 10. Every level pays coins; level 5 gives its full-art sleeve, level 10 its title and a Shatterfoil Rare of the Leader. Mastery badges show beside Leaders in matches and on profiles.\n- Collection milestones: Progress > Collection tracks each colour and BP01. Coins at 25/50/75/100%; a full colour gives its Mastery frame and playmat, and with its colour challenge done, its title.\n- Spectate: a friend's profile now has a Spectate button while they play, including games against the AI.\n- New Overrun and Bite animations.\n- The AI no longer guards every attack on a healthy Leader.\n- Fixed: a Leader brought to 0 HP by Overrun, paid life or Burn now loses the game.\n- Fixed an error flood in the game log.\n- Card inspector: hold for 1 second, or press Z / X on a controller to open and close it.\n- Shattered Rares are now called Shatterfoil Rares.",
+      "at": 1794386593981
     }
   ]
 }

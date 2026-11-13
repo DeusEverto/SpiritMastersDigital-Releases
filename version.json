@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.43",
+  "latest_version": "0.2.44",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0023-0.2.43",
-      "version": "0.2.43",
-      "file": "0023-0.2.43.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.43/0023-0.2.43.pck",
-      "sha256": "a40eb8e6e7bfb7081996bb7eb457fef73fcd3c400b7ca4fd7b1137a44302affe",
-      "size": 246481404,
-      "notes": "What's new:\n\u2022 New mode: Cube. Build your own cube (up to 4 copies of a card, sized for 2-8 players), share it with a cube code, then play it as a Draft or Sealed run. Cube cards are only for the run.\n\u2022 Leader mastery: win with a Leader to level it up to mastery 10. Every level pays coins; level 5 gives its full-art sleeve, level 10 its title and a Shatterfoil Rare of the Leader. Mastery badges show beside Leaders in matches and on profiles.\n\u2022 Collection milestones: Progress > Collection tracks each colour and BP01. Coins at 25/50/75/100%; a full colour gives its Mastery frame and playmat, and with its colour challenge done, its title.\n\u2022 Spectate: a friend's profile now has a Spectate button while they play, including games against the AI.\n\u2022 New Overrun and Bite animations.\n\u2022 The AI no longer guards every attack on a healthy Leader.\n...and more."
+      "id": "0024-0.2.44",
+      "version": "0.2.44",
+      "file": "0024-0.2.44.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.44/0024-0.2.44.pck",
+      "sha256": "708dd5ea507d78cf92fd5746a92f63f2cbda4fc9569498e0cca1b5578f75b26f",
+      "size": 252207932,
+      "notes": "What's new:\n\u2022 New card moments: animations for stealing, sacrifices, Cataclysm flips, copies, tokens, Equipment, heals and the start of each turn.\n\u2022 12 new solid-colour sleeves with no symbols, in Customize.\n\u2022 Mr Skeltal now plays his own sound when he attacks or uses his effect.\n\u2022 Forgot password: reset it from the sign-in screen with a code sent to your email.\n\u2022 Messages: the box stays ready to type after sending, there's an emoji button, and you can report a player or a single message from the chat.\n\u2022 The AI finishes off weakened Spirits with damage spells instead of chipping healthy ones.\n\u2022 Inspecting a card in the Deck Manager shows the deck's own sleeve on its back.\n\u2022 Fixed: the game could crash on a lethal attack.\n...and more."
     }
   ],
   "android": {
@@ -77,6 +77,11 @@
       "version": "0.2.43",
       "text": "0.2.43\n- New mode: Cube. Build your own cube (up to 4 copies of a card, sized for 2-8 players), share it with a cube code, then play it as a Draft or Sealed run. Cube cards are only for the run.\n- Leader mastery: win with a Leader to level it up to mastery 10. Every level pays coins; level 5 gives its full-art sleeve, level 10 its title and a Shatterfoil Rare of the Leader. Mastery badges show beside Leaders in matches and on profiles.\n- Collection milestones: Progress > Collection tracks each colour and BP01. Coins at 25/50/75/100%; a full colour gives its Mastery frame and playmat, and with its colour challenge done, its title.\n- Spectate: a friend's profile now has a Spectate button while they play, including games against the AI.\n- New Overrun and Bite animations.\n- The AI no longer guards every attack on a healthy Leader.\n- Fixed: a Leader brought to 0 HP by Overrun, paid life or Burn now loses the game.\n- Fixed an error flood in the game log.\n- Card inspector: hold for 1 second, or press Z / X on a controller to open and close it.\n- Shattered Rares are now called Shatterfoil Rares.",
       "at": 1794386593981
+    },
+    {
+      "version": "0.2.44",
+      "text": "0.2.44\n- New card moments: animations for stealing, sacrifices, Cataclysm flips, copies, tokens, Equipment, heals and the start of each turn.\n- 12 new solid-colour sleeves with no symbols, in Customize.\n- Mr Skeltal now plays his own sound when he attacks or uses his effect.\n- Forgot password: reset it from the sign-in screen with a code sent to your email.\n- Messages: the box stays ready to type after sending, there's an emoji button, and you can report a player or a single message from the chat.\n- The AI finishes off weakened Spirits with damage spells instead of chipping healthy ones.\n- Inspecting a card in the Deck Manager shows the deck's own sleeve on its back.\n- Fixed: the game could crash on a lethal attack.\n- Fixed: saving a deck made a new copy of it each time; it now saves over the deck you loaded (renaming it renames it).\n- Fixed: \"destroys a Spirit\" and other Spirit-only effects triggered on Constructs (Aggressive Ostrich).\n- Fixed: Captain Sinclair's prompt could appear before the attack had finished playing.\n- Fixed: re-cropped card art showed its old crop in prompts and pickers.\n- Fixed: Silly Goose now triggers on any attack, as its text says.",
+      "at": 1794540677551
     }
   ]
 }

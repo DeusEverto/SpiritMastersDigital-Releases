@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.44",
+  "latest_version": "0.2.45",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0024-0.2.44",
-      "version": "0.2.44",
-      "file": "0024-0.2.44.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.44/0024-0.2.44.pck",
-      "sha256": "708dd5ea507d78cf92fd5746a92f63f2cbda4fc9569498e0cca1b5578f75b26f",
-      "size": 252207932,
-      "notes": "What's new:\n\u2022 New card moments: animations for stealing, sacrifices, Cataclysm flips, copies, tokens, Equipment, heals and the start of each turn.\n\u2022 12 new solid-colour sleeves with no symbols, in Customize.\n\u2022 Mr Skeltal now plays his own sound when he attacks or uses his effect.\n\u2022 Forgot password: reset it from the sign-in screen with a code sent to your email.\n\u2022 Messages: the box stays ready to type after sending, there's an emoji button, and you can report a player or a single message from the chat.\n\u2022 The AI finishes off weakened Spirits with damage spells instead of chipping healthy ones.\n\u2022 Inspecting a card in the Deck Manager shows the deck's own sleeve on its back.\n\u2022 Fixed: the game could crash on a lethal attack.\n...and more."
+      "id": "0025-0.2.45",
+      "version": "0.2.45",
+      "file": "0025-0.2.45.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.45/0025-0.2.45.pck",
+      "sha256": "678985af60b116924f3aabdf31495db2e8e5b7fe7ad13ca1f840ba292d602158",
+      "size": 260807852,
+      "notes": "What's new:\n\u2022 New mode: Roguelike. Pick a Leader, open 2 standard packs and 1 elite pack, build a deck and climb a 10-fight ladder to a random boss. You choose each next opponent from a few options.\n\u2022 Earn coins as you go and spend them in the merchant's shop on packs, relics, charms and services. Card picks, events, upgrades and cursed relics come along the way.\n\u2022 Over 100 relics: every Leader starts with a themed relic, and there are relic sets with bonuses for owning 2 or 3 of them, plus relics that boost Spirits with no effects.\n\u2022 Enemies carry their own relics: small ones on normal fights, better ones on mini-bosses and the boss.\n\u2022 Charms: single-use items bought in the shop and used on your turn (heal, draw, NRG, damage and more).\n...and more."
     }
   ],
   "android": {
@@ -82,6 +82,11 @@
       "version": "0.2.44",
       "text": "0.2.44\n- New card moments: animations for stealing, sacrifices, Cataclysm flips, copies, tokens, Equipment, heals and the start of each turn.\n- 12 new solid-colour sleeves with no symbols, in Customize.\n- Mr Skeltal now plays his own sound when he attacks or uses his effect.\n- Forgot password: reset it from the sign-in screen with a code sent to your email.\n- Messages: the box stays ready to type after sending, there's an emoji button, and you can report a player or a single message from the chat.\n- The AI finishes off weakened Spirits with damage spells instead of chipping healthy ones.\n- Inspecting a card in the Deck Manager shows the deck's own sleeve on its back.\n- Fixed: the game could crash on a lethal attack.\n- Fixed: saving a deck made a new copy of it each time; it now saves over the deck you loaded (renaming it renames it).\n- Fixed: \"destroys a Spirit\" and other Spirit-only effects triggered on Constructs (Aggressive Ostrich).\n- Fixed: Captain Sinclair's prompt could appear before the attack had finished playing.\n- Fixed: re-cropped card art showed its old crop in prompts and pickers.\n- Fixed: Silly Goose now triggers on any attack, as its text says.",
       "at": 1794540677551
+    },
+    {
+      "version": "0.2.45",
+      "text": "0.2.45\n- New mode: Roguelike. Pick a Leader, open 2 standard packs and 1 elite pack, build a deck and climb a 10-fight ladder to a random boss. You choose each next opponent from a few options.\n- Earn coins as you go and spend them in the merchant's shop on packs, relics, charms and services. Card picks, events, upgrades and cursed relics come along the way.\n- Over 100 relics: every Leader starts with a themed relic, and there are relic sets with bonuses for owning 2 or 3 of them, plus relics that boost Spirits with no effects.\n- Enemies carry their own relics: small ones on normal fights, better ones on mini-bosses and the boss.\n- Charms: single-use items bought in the shop and used on your turn (heal, draw, NRG, damage and more).\n- After beating the boss, keep going in Endless mode with stronger rounds. Ascension levels, a Relic Codex with unlockable relics, Run History and Roguelike titles track your runs.\n- Hand limit: at the end of your turn you discard down to 10 cards.\n- Cube editor: Save stays on screen on phones however big the cube gets, a card size slider on phones, a hover preview you can turn off on PC, card inspect on every device, and add or remove 1-4 copies per click.\n- Deck editors have a \"Card preview\" switch next to Randomize deck to turn off the hover preview.\n- Sealed and Draft events can be played for an entry fee with pack and coin prizes for the top 3, or as Free Play.\n- Leaders start face down and flip at the start of a match. Cards that stop a named card from being played show a notice on the board.\n- Fixed: on phones, inspecting a card could flip it around as soon as you dragged it.\n- Fixed: the opening hand draw animation played twice in some modes.\n- Updated card data and new card art.",
+      "at": 1794807676169
     }
   ]
 }

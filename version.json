@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.46",
+  "latest_version": "0.2.47",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0026-0.2.46",
-      "version": "0.2.46",
-      "file": "0026-0.2.46.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.46/0026-0.2.46.pck",
-      "sha256": "0996ecd226770d90dd3073cf6ffe97fe92b0bac0b4b8fd706cbb9973f0388d61",
-      "size": 260810476,
-      "notes": "What's new:\n\u2022 Roguelike: the Leader screen's starting relic text no longer spills out of its box.\n\u2022 Roguelike on phones: the Leader screen fits on one screen, so the Leader's cards, both starting relics and the Start Run button are all visible."
+      "id": "0027-0.2.47",
+      "version": "0.2.47",
+      "file": "0027-0.2.47.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.47/0027-0.2.47.pck",
+      "sha256": "8ba89c17eab5051a67f908658f6c057e677ab117e7d1e88c376fe1089692004c",
+      "size": 260825212,
+      "notes": "What's new:\n\u2022 Roguelike: Grave Secrets (Vespera's starting relic) now reads \"Once per game: you can summon a Spirit from the graveyard.\" Tap it during your turn to use it.\n\u2022 Roguelike: relics you can use glow and give a little shake while they're ready.\n\u2022 Roguelike Leader screen: every Leader's cards always show as cards, and on phones the screen fits without running off the side.\n\u2022 Your profile now opens above the creators' message on the main menu.\n\u2022 Roguelike balance changes from the developers can now reach your game without an update."
     }
   ],
   "android": {
@@ -92,6 +92,11 @@
       "version": "0.2.46",
       "text": "0.2.46\n- Roguelike: the Leader screen's starting relic text no longer spills out of its box.\n- Roguelike on phones: the Leader screen fits on one screen, so the Leader's cards, both starting relics and the Start Run button are all visible.",
       "at": 1794810920140
+    },
+    {
+      "version": "0.2.47",
+      "text": "0.2.47\n- Roguelike: Grave Secrets (Vespera's starting relic) now reads \"Once per game: you can summon a Spirit from the graveyard.\" Tap it during your turn to use it.\n- Roguelike: relics you can use glow and give a little shake while they're ready.\n- Roguelike Leader screen: every Leader's cards always show as cards, and on phones the screen fits without running off the side.\n- Your profile now opens above the creators' message on the main menu.\n- Roguelike balance changes from the developers can now reach your game without an update.",
+      "at": 1794816463625
     }
   ]
 }

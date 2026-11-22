@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.48",
+  "latest_version": "0.2.49",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0028-0.2.48",
-      "version": "0.2.48",
-      "file": "0028-0.2.48.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.48/0028-0.2.48.pck",
-      "sha256": "16a2074a568e72851078b1ca2e282f5df2f8f93c61be89d88f119501f742a902",
-      "size": 277126748,
-      "notes": "What's new:\n\u2022 Updates in **News** now open as a full page: one card per topic, each with its own art.\n\u2022 Notes are grouped into **New**, **Changes** and **Fixes**, so you can find what matters to you.\n\u2022 After an update, its notes **open by themselves** the first time you reach the main menu. Closed, they stay in News.\n\u2022 After a win, **card reels** spin through the deck you just beat and land on a card each: **1** after the first fight, **2 or 3** after normal fights, **4** after a mini-boss. Keep one, or skip.\n\u2022 **Reroll** any reel for coins. It never lands on the same card twice in a row.\n\u2022 Every run, won or lost, ends with a **run snapshot**: your Leader, the ladder, your numbers, relics, every fight and your deck. Save it as a picture on PC.\n\u2022 **Grave Secrets** (Vespera Grimwold): once per game, you can summon a Spirit from the graveyard. Tap it on your turn.\n...and more."
+      "id": "0029-0.2.49",
+      "version": "0.2.49",
+      "file": "0029-0.2.49.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.49/0029-0.2.49.pck",
+      "sha256": "786c4de934596d37813e970d213f0dc3e5f7b05d2e9f8ed4dcc2f06bfe9c2e01",
+      "size": 285744892,
+      "notes": "What's new:\n\u2022 **Peekaboo Tower** replaces Merry-Go-Round: when an opponent's Spirit attacks, exhaust it to **ready** one of your exhausted Spirits. Then the tower takes 1 damage.\n\u2022 **Gobsmacked** replaces Shake Down: target Spirit **can't guard** until your next turn.\n\u2022 **Invigorate** replaces Stolen Valor: **heal 2** damage from target Spirit, and it gains **+2 ATK** until your next turn.\n\u2022 Rune Crown is now **The King's Folly**, with new art.\n\u2022 Decks that held a replaced card get the new card automatically.\n\u2022 **Silly Goose** now triggers only when it attacks a **Spirit**, not a Leader.\n\u2022 Art and animation touch-ups for **Erase** and **Alluring Mermaid**.\n\u2022 New art for Dathariel, Galen Armas, Gornak, Gren-Goblin Initiate, Happy Quokka, Healing Herbivore, Helpful Faevela, Temple in the Sky, Wolf Pup and more.\n...and more."
     }
   ],
   "android": {
@@ -102,6 +102,11 @@
       "version": "0.2.48",
       "text": "Spirit Masters 0.2.48\nA fresh look for the news, and a cleaner Roguelike tuning screen for the creators.\n\n=== NEW | Patch notes, redone | art: Hold That Thought\n- Updates in **News** now open as a full page: one card per topic, each with its own art.\n- Notes are grouped into **New**, **Changes** and **Fixes**, so you can find what matters to you.\n- After an update, its notes **open by themselves** the first time you reach the main menu. Closed, they stay in News.\n\n=== MODE | Roguelike: spin for your reward | art: Treasure Trove\n- After a win, **card reels** spin through the deck you just beat and land on a card each: **1** after the first fight, **2 or 3** after normal fights, **4** after a mini-boss. Keep one, or skip.\n- **Reroll** any reel for coins. It never lands on the same card twice in a row.\n- Every run, won or lost, ends with a **run snapshot**: your Leader, the ladder, your numbers, relics, every fight and your deck. Save it as a picture on PC.\n\n=== CHANGES | Roguelike relics | art: Grave of Archenvale\n- **Grave Secrets** (Vespera Grimwold): once per game, you can summon a Spirit from the graveyard. Tap it on your turn.\n- Relics you can use **glow and shake** while they're ready.\n\n=== FIXES | Screens that fit\n- The Roguelike Leader screen always shows every Leader's cards and fits on phones.\n- Your profile opens above the creators' message on the main menu.\n\n=== CARDS | Card updates | art: K317 - The Decider\n- **K317 - The Decider**: when a Spirit would be destroyed and K317 is ready, you're asked first. Say yes to exhaust K317 and **erase** that Spirit instead, so its \"when destroyed\" effects don't happen.\n- **Starbrite**'s text now shows its target: a Spirit an opponent controls with **4 or less ATK**.\n- **Silly Goose** triggers on **any attack**, Leaders included, as its text says.\n- New art for Blanca, Lobo, Goblin Bruiser, Man-Eater Plant, Mutated Frog, Universal Archivist, Z - The Magician and more, plus the latest balance changes.",
       "at": 1795167918423
+    },
+    {
+      "version": "0.2.49",
+      "text": "Spirit Masters 0.2.49\nNew cards, new Roguelike Leaders, and every reward card is yours to keep.\n\n=== CARDS | New cards | art: Peekaboo Tower\n- **Peekaboo Tower** replaces Merry-Go-Round: when an opponent's Spirit attacks, exhaust it to **ready** one of your exhausted Spirits. Then the tower takes 1 damage.\n- **Gobsmacked** replaces Shake Down: target Spirit **can't guard** until your next turn.\n- **Invigorate** replaces Stolen Valor: **heal 2** damage from target Spirit, and it gains **+2 ATK** until your next turn.\n- Rune Crown is now **The King's Folly**, with new art.\n- Decks that held a replaced card get the new card automatically.\n\n=== BALANCE | Card updates | art: Silly Goose\n- **Silly Goose** now triggers only when it attacks a **Spirit**, not a Leader.\n- Art and animation touch-ups for **Erase** and **Alluring Mermaid**.\n- New art for Dathariel, Galen Armas, Gornak, Gren-Goblin Initiate, Happy Quokka, Healing Herbivore, Helpful Faevela, Temple in the Sky, Wolf Pup and more.\n\n=== MODE | Roguelike: more to keep | art: Treasure Trove\n- Runs start with **4 packs** instead of 3.\n- After a win, you can keep the card from **every reel**, not just one. Click a reel to leave its card out.\n- Reward, event and shop cards go into your **collection**, marked NEW in Edit Deck, so you decide what goes in your deck.\n- Events show the cards they gave you.\n- New Leaders: **Captain Sinclair of the Black Sea** (Grave Treasures: +10% coins per fight) and **K317 - The Decider**.\n\n=== CHANGES | Smoother screens | art: Hold That Thought\n- **Open Next Pack** now appears where Skip was, so you can open pack after pack without crossing the screen.\n- My Decks no longer lists your Sealed, Draft and Roguelike run decks.\n\n=== FIXES | Fixes | art: Virus Injector\n- **Virus Injector** on an opponent's Spirit goes back to its owner when that Spirit leaves.\n- The Roguelike enemy relic **Blood Fang** works as written.",
+      "at": 1795336537824
     }
   ]
 }

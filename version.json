@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.49",
+  "latest_version": "0.2.50",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0029-0.2.49",
-      "version": "0.2.49",
-      "file": "0029-0.2.49.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.49/0029-0.2.49.pck",
-      "sha256": "786c4de934596d37813e970d213f0dc3e5f7b05d2e9f8ed4dcc2f06bfe9c2e01",
-      "size": 285744892,
-      "notes": "What's new:\n\u2022 **Peekaboo Tower** replaces Merry-Go-Round: when an opponent's Spirit attacks, exhaust it to **ready** one of your exhausted Spirits. Then the tower takes 1 damage.\n\u2022 **Gobsmacked** replaces Shake Down: target Spirit **can't guard** until your next turn.\n\u2022 **Invigorate** replaces Stolen Valor: **heal 2** damage from target Spirit, and it gains **+2 ATK** until your next turn.\n\u2022 Rune Crown is now **The King's Folly**, with new art.\n\u2022 Decks that held a replaced card get the new card automatically.\n\u2022 **Silly Goose** now triggers only when it attacks a **Spirit**, not a Leader.\n\u2022 Art and animation touch-ups for **Erase** and **Alluring Mermaid**.\n\u2022 New art for Dathariel, Galen Armas, Gornak, Gren-Goblin Initiate, Happy Quokka, Healing Herbivore, Helpful Faevela, Temple in the Sky, Wolf Pup and more.\n...and more."
+      "id": "0030-0.2.50",
+      "version": "0.2.50",
+      "file": "0030-0.2.50.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.50/0030-0.2.50.pck",
+      "sha256": "8294a3d7884b7d570a9e8e4ba6436576efd2a1667eacaffe738f7302cf813e6e",
+      "size": 285746524,
+      "notes": "What's new:\n\u2022 **Silly Goose** triggers on **any attack** again, Leaders included, as its text says. 0.2.49 had it only on attacks at Spirits by mistake."
     }
   ],
   "android": {
@@ -107,6 +107,11 @@
       "version": "0.2.49",
       "text": "Spirit Masters 0.2.49\nNew cards, new Roguelike Leaders, and every reward card is yours to keep.\n\n=== CARDS | New cards | art: Peekaboo Tower\n- **Peekaboo Tower** replaces Merry-Go-Round: when an opponent's Spirit attacks, exhaust it to **ready** one of your exhausted Spirits. Then the tower takes 1 damage.\n- **Gobsmacked** replaces Shake Down: target Spirit **can't guard** until your next turn.\n- **Invigorate** replaces Stolen Valor: **heal 2** damage from target Spirit, and it gains **+2 ATK** until your next turn.\n- Rune Crown is now **The King's Folly**, with new art.\n- Decks that held a replaced card get the new card automatically.\n\n=== BALANCE | Card updates | art: Silly Goose\n- **Silly Goose** now triggers only when it attacks a **Spirit**, not a Leader.\n- Art and animation touch-ups for **Erase** and **Alluring Mermaid**.\n- New art for Dathariel, Galen Armas, Gornak, Gren-Goblin Initiate, Happy Quokka, Healing Herbivore, Helpful Faevela, Temple in the Sky, Wolf Pup and more.\n\n=== MODE | Roguelike: more to keep | art: Treasure Trove\n- Runs start with **4 packs** instead of 3.\n- After a win, you can keep the card from **every reel**, not just one. Click a reel to leave its card out.\n- Reward, event and shop cards go into your **collection**, marked NEW in Edit Deck, so you decide what goes in your deck.\n- Events show the cards they gave you.\n- New Leaders: **Captain Sinclair of the Black Sea** (Grave Treasures: +10% coins per fight) and **K317 - The Decider**.\n\n=== CHANGES | Smoother screens | art: Hold That Thought\n- **Open Next Pack** now appears where Skip was, so you can open pack after pack without crossing the screen.\n- My Decks no longer lists your Sealed, Draft and Roguelike run decks.\n\n=== FIXES | Fixes | art: Virus Injector\n- **Virus Injector** on an opponent's Spirit goes back to its owner when that Spirit leaves.\n- The Roguelike enemy relic **Blood Fang** works as written.",
       "at": 1795336537824
+    },
+    {
+      "version": "0.2.50",
+      "text": "Spirit Masters 0.2.50\nA quick fix for Silly Goose.\n\n=== FIXES | Silly Goose, back to normal | art: Silly Goose\n- **Silly Goose** triggers on **any attack** again, Leaders included, as its text says. 0.2.49 had it only on attacks at Spirits by mistake.",
+      "at": 1795337062073
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.50",
+  "latest_version": "0.2.51",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0030-0.2.50",
-      "version": "0.2.50",
-      "file": "0030-0.2.50.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.50/0030-0.2.50.pck",
-      "sha256": "8294a3d7884b7d570a9e8e4ba6436576efd2a1667eacaffe738f7302cf813e6e",
-      "size": 285746524,
-      "notes": "What's new:\n\u2022 **Silly Goose** triggers on **any attack** again, Leaders included, as its text says. 0.2.49 had it only on attacks at Spirits by mistake."
+      "id": "0031-0.2.51",
+      "version": "0.2.51",
+      "file": "0031-0.2.51.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.51/0031-0.2.51.pck",
+      "sha256": "1b51b05b3827f49ec173b08d0bc0f71f003d498520f4060aa8168abb9d5be89a",
+      "size": 301366380,
+      "notes": "What's new:\n\u2022 **Blanca, Mother Wolf**: {O}, when a Spirit you control with 3 or less NRG is destroyed, put a **+1 ATK Counter** on Blanca. If it was a **Wolf**, put two instead.\n\u2022 **Lobo, the Grayfather**: Wolf Spirits you control with 6 or less NRG gain **Overrun**. When Lobo destroys an opponent's Spirit, put a +1 ATK Counter on another Wolf you control.\n\u2022 Complacency is now **Dampen**, Misplaced Memory is now **Out of Sight**, and Skill: Dismantle is now **Dismantle**. Decks swap to the new cards automatically.\n\u2022 Updates to **Furious Boar**, **Frog Lee**, **Banana Slinger**, **Starved Wolf**, **Howling Wolf**, **Ravaging Wolf** and more.\n\u2022 New art for Chronoworm, Guard Duty, Dampen, Dismantle, Out of Sight, Change of Plans, Make My Monster Grow!, Red Wyvern, Share the Pain, Creature Cannon, Mutant Stag and The White Stag.\n...and more."
     }
   ],
   "android": {
@@ -112,6 +112,11 @@
       "version": "0.2.50",
       "text": "Spirit Masters 0.2.50\nA quick fix for Silly Goose.\n\n=== FIXES | Silly Goose, back to normal | art: Silly Goose\n- **Silly Goose** triggers on **any attack** again, Leaders included, as its text says. 0.2.49 had it only on attacks at Spirits by mistake.",
       "at": 1795337062073
+    },
+    {
+      "version": "0.2.51",
+      "text": "Spirit Masters 0.2.51\nNew wolves, mystery Roguelike opponents, and fairer \"must attack\" rules.\n\n=== CARDS | New cards | art: Blanca, Mother Wolf\n- **Blanca, Mother Wolf**: {O}, when a Spirit you control with 3 or less NRG is destroyed, put a **+1 ATK Counter** on Blanca. If it was a **Wolf**, put two instead.\n- **Lobo, the Grayfather**: Wolf Spirits you control with 6 or less NRG gain **Overrun**. When Lobo destroys an opponent's Spirit, put a +1 ATK Counter on another Wolf you control.\n- Complacency is now **Dampen**, Misplaced Memory is now **Out of Sight**, and Skill: Dismantle is now **Dismantle**. Decks swap to the new cards automatically.\n\n=== BALANCE | Card updates | art: Furious Boar\n- Updates to **Furious Boar**, **Frog Lee**, **Banana Slinger**, **Starved Wolf**, **Howling Wolf**, **Ravaging Wolf** and more.\n- New art for Chronoworm, Guard Duty, Dampen, Dismantle, Out of Sight, Change of Plans, Make My Monster Grow!, Red Wyvern, Share the Pain, Creature Cannon, Mutant Stag and The White Stag.\n\n=== MODE | Roguelike: mystery opponents | art: Canopy Scout\n- Normal fights are now **mystery opponents**: you find out who it is when the duel starts. Mini-bosses and the boss still show their Leader, HP and relics.\n- New shop relic **Spyglass** reveals every opponent's Leader, difficulty, deck theme and key cards.\n- Tap an opponent to fight them, on phones too. The fight starts straight away with no extra setup screen.\n\n=== RULES | Must attack means must attack | art: Berserk Baboon\n- If a Spirit that **must attack if able** hasn't attacked yet, you can't make a play that would push NRG over and end your turn. That covers cards, abilities, equips and summons from other zones. The game tells you which Spirit has to attack first.\n\n=== FIXES | Fixes | art: Throne of Malphas\n- Spells and effects stay in the spotlight until they finish, instead of leaving and showing up a second time.\n- **Throne of Malphas** no longer triggers when a Goblin is destroyed.\n- The deck editor no longer shows old art for some cards.",
+      "at": 1795422686958
     }
   ]
 }

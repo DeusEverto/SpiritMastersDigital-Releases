@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.52",
+  "latest_version": "0.2.53",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0032-0.2.52",
-      "version": "0.2.52",
-      "file": "0032-0.2.52.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.52/0032-0.2.52.pck",
-      "sha256": "d25e51a72caee54521a4dd7b26a3865305ff190e0beb4365a89b2dfca01d4af9",
-      "size": 312183916,
+      "id": "0033-0.2.53",
+      "version": "0.2.53",
+      "file": "0033-0.2.53.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.53/0033-0.2.53.pck",
+      "sha256": "9950ce3f86b4fb14d68e810206561ce8c4cf18589b7a304c6581b8651d8fe783",
+      "size": 316544044,
       "notes": ""
     }
   ],
@@ -122,6 +122,11 @@
       "version": "0.2.52",
       "text": "Spirit Masters 0.2.52\nRoguelike on the main menu, new deck-building music, and Circle of Life.\n\n=== MODE | Roguelike on the main menu | art: Here or There\n- The Roguelike now has its own card on the main menu. A run in progress shows **Continue Run** right there.\n- Nemesis moved to the **Play vs AI** card, next to Tutorial.\n- Relics that share a set now **fuse** into a stronger relic once you hold every piece. The set's bonuses stay on after fusing.\n- Some relics were renamed so they aren't confused with cards: **Mender's Band**, **Idol of Vitality** and **Sky Temple Bell**.\n- **Mimic's Mirror** now copies the first Spirit your opponent summons each game, as its text says (it was copying one every turn).\n\n=== MUSIC | New music | art: Circle of Life\n- A new deck-building theme plays in the Deck Editor, Play vs AI setup, the PvP and Online screens, and while opening packs, drafting and between Roguelike fights.\n- Songs now fade into each other instead of cutting off.\n- Screens that used to be silent (Online, Roguelike between fights, Cube) now have music.\n\n=== CARDS | Card updates | art: Circle of Life\n- **Nature's Rejoice** is now **Circle of Life**, with new art. Decks swap to the new card automatically.\n- New art for **Hold That Thought** and **Wild Fury**.\n\n=== FIXES | Fixes | art: Throne of Malphas\n- The update screen no longer shows the raw patch notes text (they're in News now).",
       "at": 1795496375879
+    },
+    {
+      "version": "0.2.53",
+      "text": "Spirit Masters 0.2.53\nNew card art, Red Wyvern, and a Roguelike shop that fits on screen.\n\n=== CARDS | New card art | art: The Grin Reaper\n- New art for **Bitter Reward**, **Energy Conduit**, **Gummi Fish**, **Gust of Wind**, **Kragen the Warleader**, **Magi the Magnificent**, **Majestic Unicorn**, **Mental Shock**, **Mister Robardo**, **Mousephant**, **Mystic Reclaimer**, **Na'ma Geoff**, **Red Piranha**, **Rubber Ducky of Death**, **Smoke Elemental**, **Spit**, **The Banana King**, **The Grin Reaper**, **Undertow**, **Unexpected Rogue Train**, **Verdant Ranger**, **Vespera Grimwold, Death Whisperer**, **Viola, Seeker of Secrets**, **Virus Injector** and **Wet Floor Sign**.\n- New card: **Red Wyvern**.\n- Card balance and wording updates from the latest live edits.\n\n=== FIXES | Fixes | art: Red Wyvern\n- The Roguelike shop now resizes its cards to fit on screen, however many are for sale.",
+      "at": 1795510552991
     }
   ]
 }

@@ -1,19 +1,9 @@
 {
   "schema_version": 1,
-  "base_version": "0.2.19",
-  "latest_version": "0.2.54",
-  "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
-  "patches": [
-    {
-      "id": "0034-0.2.54",
-      "version": "0.2.54",
-      "file": "0034-0.2.54.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.54/0034-0.2.54.pck",
-      "sha256": "39b80ff2468739c9bd7de2cb1cd0eb8f7c25d39fb8d57168dbc18db670732121",
-      "size": 327969660,
-      "notes": ""
-    }
-  ],
+  "base_version": "0.2.55",
+  "latest_version": "0.2.55",
+  "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.55",
+  "patches": [],
   "android": {
     "base": "2",
     "latest_version": "0.2.17",
@@ -31,19 +21,19 @@
     ]
   },
   "full_release": {
-    "version": "0.2.19",
+    "version": "0.2.55",
     "files": [
       {
         "name": "SpiritMasters.exe",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.19/SpiritMasters.exe",
-        "sha256": "dcfc7f5f67a1db5c265af53a44f4786fd56b684da306a0061e0291c3f3c38c5b",
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.55/SpiritMasters.exe",
+        "sha256": "b70b90c0dbfe6d068f6a5718097d7d25ce21434de769bf1ecd090db3aff7ea50",
         "size": 83433984
       },
       {
         "name": "SpiritMasters.pck",
-        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.19/SpiritMasters.pck",
-        "sha256": "59f432fdc26def767fd126692c28012045922d4f607244d5909dcfca29838e72",
-        "size": 163091180
+        "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.55/SpiritMasters.pck",
+        "sha256": "e2fa96d23772031578ac0af3b1e1228f45c81a1ab2ac1f0d8b53fd8e7fe67fb0",
+        "size": 429547324
       }
     ]
   },
@@ -132,6 +122,11 @@
       "version": "0.2.54",
       "text": "Spirit Masters 0.2.54\nA huge Roguelike update: save slots, card upgrades, Leader packs, a living shop and much more.\n\n=== ROGUELIKE | Save slots and runs | art: The Banana King\n- Keep up to **4 Roguelike runs** saved at once. Pick a save when you open the mode; each shows its Leader, fight, HP, coins and relics.\n- A lost run is cleared from its save. After beating the boss, go on to **Endless**, or start again at the **Ascension** you just unlocked.\n- Coins are added to your coin pool when you **beat a run** (lost runs and Endless keep none).\n- Ascension unlocks for the Leader that won, and the first fight at Ascension 0 is gentler.\n- **Viola, Seeker of Secrets** joins the Leaders, replacing Bearold. Every Leader now starts with 50 coins.\n\n=== ROGUELIKE | Packs and upgrades | art: Witch of the Wildwood\n- Each Leader opens **its own Leader pack** first, themed around its cards.\n- New **themed booster packs**, sold in the shop and handed out by events.\n- **Upgraded cards**: buy upgrades in the shop (more ATK or HP, lower costs, bigger numbers, new keywords) or pull already-upgraded cards from packs. Changes show in green everywhere, with a side panel saying what was upgraded.\n- **Upgrade your Leader**: more ATK, max HP, a rare +1 NRG, or keywords like Armor, Recoup and Gatekeep.\n- Relics that upgrade your cards once they've destroyed enough Spirits, dealt enough damage or been played enough.\n\n=== ROGUELIKE | Relics | art: Fortune Teller\n- **Relic rarities** (Common to Legendary): rarer relics have bigger numbers, and you can raise one in the shop.\n- **Sell relics** you don't want (cursed ones can't be sold).\n- New sustain relics: **Bulwark Shield**, **Stoneskin Charm**, **Mending Crown**, **Troll Blood Vial**, **Warden's Blessing**, **Spring of Renewal**, **Gatekeeper's Horn**, **Aegis of Dawn**, plus **Fortune Teller's Eye** (see your next draw) and more.\n- **Cursed relics** now have big upsides and much bigger downsides.\n- Relics sit in columns down the sides of the board and light up when they trigger.\n\n=== ROGUELIKE | Tougher opponents | art: Doom Cultist\n- Opponents carry stronger relics, more of them as the run goes on, and much stronger at higher Ascension.\n- New opponent relics that weaken you, heal their Leader or toughen their Spirits.\n- Opponent Leaders get upgrades too.\n\n=== ROGUELIKE | The shop | art: Peekaboo Tower\n- Meet the **merchant**: she blinks and talks, and sometimes she's a different animal.\n- Buy several things at once, reroll restocks everything, and upgrade prices rise each time.\n- New events, a new backdrop, and **sound effects** throughout the mode.\n- **Roguelike achievements, a daily challenge and a weekly quest**.\n- Report a problem from inside a run, with the whole run attached.\n\n=== ACCOUNT | Profile and account settings | art: Universal Archivist\n- Settings has new **Profile** and **Account** tabs: your name, gender and birthday, change your password, and sign out of other devices.\n- Forgot password now asks you to type a brand-new password twice.\n\n=== FIXES | Fixes and improvements | art: Crawling Zombie\n- Keywords now work on Leaders (Gatekeep, Medic, Recoup, Armor and more).\n- An **Empty deck** button in the deck editor, and the deck editor no longer stutters when you click cards.\n- Abilities that are once per turn now count each ability separately.\n- You can't summon from the graveyard or use abilities after your NRG has passed over.\n- Skipping a pack opening no longer leaves the screen washed out.\n- Nemesis cards and decks no longer appear in the normal deck editor.\n- Lots of other Roguelike fixes.",
       "at": 1795653722116
+    },
+    {
+      "version": "0.2.55",
+      "text": "Spirit Masters 0.2.55\nA full update: clearer targeting, Quick Strike, growing Roguelike decks, new relics and lots of fixes.\n\n=== GAMEPLAY | Clearer targeting | art: Hug of Death\n- While you aim a spell, ability, trigger or Equipment, a **banner at the top** shows the card, the ability being aimed and what to click.\n- Effects that target a **player** are aimed by clicking that player's **Leader** (it glows), not picked from a list.\n- **Shadow Imp** looks at your opponent's deck again instead of asking for a Spirit.\n- Hovering the top-left of the board no longer pops up a stray Leader info box.\n\n=== KEYWORD | Quick Strike | art: Quick Feet\n- New keyword **Quick Strike**: deals its combat damage to the Spirit it fights before that Spirit deals damage back. If that first hit destroys it, nothing comes back.\n- **Quick Feet** now makes its target strike first until the end phase (instead of granting Swift).\n\n=== ROGUELIKE | Bigger decks as you climb | art: Dopey Yeti\n- Your deck needs **20 cards** at the start, then **10 more after each mini-boss** (up to 50). Opponents' decks grow with yours.\n- The **first opponent** of a run plays a gentle deck: cheap Spirits, healing and small damage.\n- Normal deck rules: at most **4 copies** of a card, unless you find the **Horde Banner** relic.\n- Left the shop by mistake? A **Back to Shop** button stays on the ladder until you start a fight.\n\n=== ROGUELIKE | Upgrades and relics | art: Fortune Teller\n- Upgraded cards now show their upgrades **in your hand** and on **deck editor tiles**.\n- Event upgrades play an animation showing each card being upgraded.\n- Cards like **Hug of Death** can upgrade their NRG limit (\"3 or less\" becomes \"4 or less\").\n- **Thyrizkis** keeps the upgrades of the ability it copies.\n- New relics: **Pack Wolf's Nose** (25% chance of a free pack after a win) and **Crystal Snail Shell** (pack cards sometimes turn into Super Rares or Secret Rares).\n- **Raising a relic** now improves every relic, including ones that used to stay the same.\n- Themed booster packs are now called **Theme Packs**, and they and Leader packs can hold **starter deck cards**.\n\n=== ROGUELIKE | Shop and sound | art: Peekaboo Tower\n- The merchant no longer chatters while you move the mouse: the shop makes a sound when you enter, buy and leave.\n- SOLD and DONE are easier to read, and shop pictures fit their rounded frames.\n\n=== SOCIAL | Friends and spectating | art: Traveler & Companion\n- Your friends list and profile show your Roguelike run: your Leader, the fight and your Ascension.\n- The Info panel shows **how many people are watching** your game and who they are.\n\n=== FIXES | Fixes and improvements | art: Gren-Goblin Pyromancer\n- Opponents no longer damage their own Spirits with \"you can\" effects like **Gren-Goblin Pyromancer**'s; they skip it instead when it could only hit their own Spirits.\n- Search the deck editor by **artist** or **concept** credit.\n- Lots of other Roguelike fixes.",
+      "at": 1795688747561
     }
   ]
 }

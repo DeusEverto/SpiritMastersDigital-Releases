@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "base_version": "0.2.19",
-  "latest_version": "0.2.53",
+  "latest_version": "0.2.54",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.19",
   "patches": [
     {
-      "id": "0033-0.2.53",
-      "version": "0.2.53",
-      "file": "0033-0.2.53.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.53/0033-0.2.53.pck",
-      "sha256": "9950ce3f86b4fb14d68e810206561ce8c4cf18589b7a304c6581b8651d8fe783",
-      "size": 316544044,
+      "id": "0034-0.2.54",
+      "version": "0.2.54",
+      "file": "0034-0.2.54.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.54/0034-0.2.54.pck",
+      "sha256": "39b80ff2468739c9bd7de2cb1cd0eb8f7c25d39fb8d57168dbc18db670732121",
+      "size": 327969660,
       "notes": ""
     }
   ],
@@ -127,6 +127,11 @@
       "version": "0.2.53",
       "text": "Spirit Masters 0.2.53\nNew card art, Red Wyvern, and a Roguelike shop that fits on screen.\n\n=== CARDS | New card art | art: The Grin Reaper\n- New art for **Bitter Reward**, **Energy Conduit**, **Gummi Fish**, **Gust of Wind**, **Kragen the Warleader**, **Magi the Magnificent**, **Majestic Unicorn**, **Mental Shock**, **Mister Robardo**, **Mousephant**, **Mystic Reclaimer**, **Na'ma Geoff**, **Red Piranha**, **Rubber Ducky of Death**, **Smoke Elemental**, **Spit**, **The Banana King**, **The Grin Reaper**, **Undertow**, **Unexpected Rogue Train**, **Verdant Ranger**, **Vespera Grimwold, Death Whisperer**, **Viola, Seeker of Secrets**, **Virus Injector** and **Wet Floor Sign**.\n- New card: **Red Wyvern**.\n- Card balance and wording updates from the latest live edits.\n\n=== FIXES | Fixes | art: Red Wyvern\n- The Roguelike shop now resizes its cards to fit on screen, however many are for sale.",
       "at": 1795510552991
+    },
+    {
+      "version": "0.2.54",
+      "text": "Spirit Masters 0.2.54\nA huge Roguelike update: save slots, card upgrades, Leader packs, a living shop and much more.\n\n=== ROGUELIKE | Save slots and runs | art: The Banana King\n- Keep up to **4 Roguelike runs** saved at once. Pick a save when you open the mode; each shows its Leader, fight, HP, coins and relics.\n- A lost run is cleared from its save. After beating the boss, go on to **Endless**, or start again at the **Ascension** you just unlocked.\n- Coins are added to your coin pool when you **beat a run** (lost runs and Endless keep none).\n- Ascension unlocks for the Leader that won, and the first fight at Ascension 0 is gentler.\n- **Viola, Seeker of Secrets** joins the Leaders, replacing Bearold. Every Leader now starts with 50 coins.\n\n=== ROGUELIKE | Packs and upgrades | art: Witch of the Wildwood\n- Each Leader opens **its own Leader pack** first, themed around its cards.\n- New **themed booster packs**, sold in the shop and handed out by events.\n- **Upgraded cards**: buy upgrades in the shop (more ATK or HP, lower costs, bigger numbers, new keywords) or pull already-upgraded cards from packs. Changes show in green everywhere, with a side panel saying what was upgraded.\n- **Upgrade your Leader**: more ATK, max HP, a rare +1 NRG, or keywords like Armor, Recoup and Gatekeep.\n- Relics that upgrade your cards once they've destroyed enough Spirits, dealt enough damage or been played enough.\n\n=== ROGUELIKE | Relics | art: Fortune Teller\n- **Relic rarities** (Common to Legendary): rarer relics have bigger numbers, and you can raise one in the shop.\n- **Sell relics** you don't want (cursed ones can't be sold).\n- New sustain relics: **Bulwark Shield**, **Stoneskin Charm**, **Mending Crown**, **Troll Blood Vial**, **Warden's Blessing**, **Spring of Renewal**, **Gatekeeper's Horn**, **Aegis of Dawn**, plus **Fortune Teller's Eye** (see your next draw) and more.\n- **Cursed relics** now have big upsides and much bigger downsides.\n- Relics sit in columns down the sides of the board and light up when they trigger.\n\n=== ROGUELIKE | Tougher opponents | art: Doom Cultist\n- Opponents carry stronger relics, more of them as the run goes on, and much stronger at higher Ascension.\n- New opponent relics that weaken you, heal their Leader or toughen their Spirits.\n- Opponent Leaders get upgrades too.\n\n=== ROGUELIKE | The shop | art: Peekaboo Tower\n- Meet the **merchant**: she blinks and talks, and sometimes she's a different animal.\n- Buy several things at once, reroll restocks everything, and upgrade prices rise each time.\n- New events, a new backdrop, and **sound effects** throughout the mode.\n- **Roguelike achievements, a daily challenge and a weekly quest**.\n- Report a problem from inside a run, with the whole run attached.\n\n=== ACCOUNT | Profile and account settings | art: Universal Archivist\n- Settings has new **Profile** and **Account** tabs: your name, gender and birthday, change your password, and sign out of other devices.\n- Forgot password now asks you to type a brand-new password twice.\n\n=== FIXES | Fixes and improvements | art: Crawling Zombie\n- Keywords now work on Leaders (Gatekeep, Medic, Recoup, Armor and more).\n- An **Empty deck** button in the deck editor, and the deck editor no longer stutters when you click cards.\n- Abilities that are once per turn now count each ability separately.\n- You can't summon from the graveyard or use abilities after your NRG has passed over.\n- Skipping a pack opening no longer leaves the screen washed out.\n- Nemesis cards and decks no longer appear in the normal deck editor.\n- Lots of other Roguelike fixes.",
+      "at": 1795653722116
     }
   ]
 }

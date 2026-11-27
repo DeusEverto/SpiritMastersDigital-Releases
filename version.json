@@ -1,9 +1,19 @@
 {
   "schema_version": 1,
   "base_version": "0.2.55",
-  "latest_version": "0.2.55",
+  "latest_version": "0.2.56",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.55",
-  "patches": [],
+  "patches": [
+    {
+      "id": "0001-0.2.56",
+      "version": "0.2.56",
+      "file": "0001-0.2.56.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.56/0001-0.2.56.pck",
+      "sha256": "c928e519201f216c9d7c19548ab5c390f7c0a9fe2b8868b677814493d5d50fc1",
+      "size": 130884220,
+      "notes": ""
+    }
+  ],
   "android": {
     "base": "2",
     "latest_version": "0.2.17",
@@ -127,6 +137,11 @@
       "version": "0.2.55",
       "text": "Spirit Masters 0.2.55\nA full update: clearer targeting, Quick Strike, growing Roguelike decks, new relics and lots of fixes.\n\n=== GAMEPLAY | Clearer targeting | art: Hug of Death\n- While you aim a spell, ability, trigger or Equipment, a **banner at the top** shows the card, the ability being aimed and what to click.\n- Effects that target a **player** are aimed by clicking that player's **Leader** (it glows), not picked from a list.\n- **Shadow Imp** looks at your opponent's deck again instead of asking for a Spirit.\n- Hovering the top-left of the board no longer pops up a stray Leader info box.\n\n=== KEYWORD | Quick Strike | art: Quick Feet\n- New keyword **Quick Strike**: deals its combat damage to the Spirit it fights before that Spirit deals damage back. If that first hit destroys it, nothing comes back.\n- **Quick Feet** now makes its target strike first until the end phase (instead of granting Swift).\n\n=== ROGUELIKE | Bigger decks as you climb | art: Dopey Yeti\n- Your deck needs **20 cards** at the start, then **10 more after each mini-boss** (up to 50). Opponents' decks grow with yours.\n- The **first opponent** of a run plays a gentle deck: cheap Spirits, healing and small damage.\n- Normal deck rules: at most **4 copies** of a card, unless you find the **Horde Banner** relic.\n- Left the shop by mistake? A **Back to Shop** button stays on the ladder until you start a fight.\n\n=== ROGUELIKE | Upgrades and relics | art: Fortune Teller\n- Upgraded cards now show their upgrades **in your hand** and on **deck editor tiles**.\n- Event upgrades play an animation showing each card being upgraded.\n- Cards like **Hug of Death** can upgrade their NRG limit (\"3 or less\" becomes \"4 or less\").\n- **Thyrizkis** keeps the upgrades of the ability it copies.\n- New relics: **Pack Wolf's Nose** (25% chance of a free pack after a win) and **Crystal Snail Shell** (pack cards sometimes turn into Super Rares or Secret Rares).\n- **Raising a relic** now improves every relic, including ones that used to stay the same.\n- Themed booster packs are now called **Theme Packs**, and they and Leader packs can hold **starter deck cards**.\n\n=== ROGUELIKE | Shop and sound | art: Peekaboo Tower\n- The merchant no longer chatters while you move the mouse: the shop makes a sound when you enter, buy and leave.\n- SOLD and DONE are easier to read, and shop pictures fit their rounded frames.\n\n=== SOCIAL | Friends and spectating | art: Traveler & Companion\n- Your friends list and profile show your Roguelike run: your Leader, the fight and your Ascension.\n- The Info panel shows **how many people are watching** your game and who they are.\n\n=== FIXES | Fixes and improvements | art: Gren-Goblin Pyromancer\n- Opponents no longer damage their own Spirits with \"you can\" effects like **Gren-Goblin Pyromancer**'s; they skip it instead when it could only hit their own Spirits.\n- Search the deck editor by **artist** or **concept** credit.\n- Lots of other Roguelike fixes.",
       "at": 1795688747561
+    },
+    {
+      "version": "0.2.56",
+      "text": "Spirit Masters 0.2.56\nA big look update: painted card backs and playmats, menu backgrounds, profile banners, your first board companion -- and wagers, mimics and boss relics in the Roguelike.\n\n=== LOOKS | Painted card backs | art: Polar Wyvern\n- Every themed card back is **repainted** -- most of them now move\n- **15 new card backs**: Blood Moon, Thunderstrike, Shattered, Rending Claws, Lightspeed, six **gradients** and four **pastels**\n- The Erased's Leader card back is now **K317 - The Decider**'s\n\n=== LOOKS | Painted playmats | art: Red Wyvern\n- Every playmat is now a **painted scene** on your half of the table, turned round for your opponent\n- **7 new playmats**: Blood Moon, Thunderstrike, Lightspeed, Shattered, Lilac Honeycomb, Sky Blocks and Sunset Ridge\n\n=== NEW | Menu backgrounds & banners | art: Blanca, Mother Wolf\n- **Menu backgrounds**: 8 scenes for your main menu, from the Aurora Tundra to the Floating Isles\n- **Profile banners**: a strip behind your name on your profile and in friends' lists\n- **8 new profile backgrounds**, each with a matching banner -- **Equip matching set** puts on both\n\n=== NEW | Board companions | art: Curious Kivvi\n- **Curious Kivvi** sits on its seat by your Leader: it hops when you play, flinches when you're hurt and cheers when you win\n- **Companion seats**: Stone Pedestal, Frost Dais, Ember Altar, Mossy Stump and Void Rift\n\n=== MODE | Roguelike: risk and reward | art: Treasure Trove\n- **Wagers**: some fights offer a handicap for a prize\n- **Mimics**: now and then a shop item bites back -- beat it for your coins and a Rare relic\n- **Boss relics**: Legendary-only relics after each boss, with stronger reward reels\n- Reroll the bosses, and rerolling the shop lets you **upgrade again**\n- New rewards for **Ascension 10** and **Endless round 10**: a title, card back, frame and playmat each\n\n=== FIXES | Fixes | art: Arctic Penwing\n- The **dice** no longer get cut off while they roll\n- Armor relics now work the way Armor does",
+      "at": 1795766442977
     }
   ]
 }

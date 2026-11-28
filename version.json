@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "base_version": "0.2.55",
-  "latest_version": "0.2.56",
+  "latest_version": "0.2.57",
   "full_release_url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/tag/v0.2.55",
   "patches": [
     {
-      "id": "0001-0.2.56",
-      "version": "0.2.56",
-      "file": "0001-0.2.56.pck",
-      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.56/0001-0.2.56.pck",
-      "sha256": "c928e519201f216c9d7c19548ab5c390f7c0a9fe2b8868b677814493d5d50fc1",
-      "size": 130884220,
+      "id": "0002-0.2.57",
+      "version": "0.2.57",
+      "file": "0002-0.2.57.pck",
+      "url": "https://github.com/DeusEverto/SpiritMastersDigital-Releases/releases/download/v0.2.57/0002-0.2.57.pck",
+      "sha256": "4144b2efeaef823dd2515fdfed0e0e8545250bc3553eb0be56a0c3b429c244fd",
+      "size": 182835948,
       "notes": ""
     }
   ],
@@ -142,6 +142,11 @@
       "version": "0.2.56",
       "text": "Spirit Masters 0.2.56\nA big look update: painted card backs and playmats, menu backgrounds, profile banners, your first board companion -- and wagers, mimics and boss relics in the Roguelike.\n\n=== LOOKS | Painted card backs | art: Polar Wyvern\n- Every themed card back is **repainted** -- most of them now move\n- **15 new card backs**: Blood Moon, Thunderstrike, Shattered, Rending Claws, Lightspeed, six **gradients** and four **pastels**\n- The Erased's Leader card back is now **K317 - The Decider**'s\n\n=== LOOKS | Painted playmats | art: Red Wyvern\n- Every playmat is now a **painted scene** on your half of the table, turned round for your opponent\n- **7 new playmats**: Blood Moon, Thunderstrike, Lightspeed, Shattered, Lilac Honeycomb, Sky Blocks and Sunset Ridge\n\n=== NEW | Menu backgrounds & banners | art: Blanca, Mother Wolf\n- **Menu backgrounds**: 8 scenes for your main menu, from the Aurora Tundra to the Floating Isles\n- **Profile banners**: a strip behind your name on your profile and in friends' lists\n- **8 new profile backgrounds**, each with a matching banner -- **Equip matching set** puts on both\n\n=== NEW | Board companions | art: Curious Kivvi\n- **Curious Kivvi** sits on its seat by your Leader: it hops when you play, flinches when you're hurt and cheers when you win\n- **Companion seats**: Stone Pedestal, Frost Dais, Ember Altar, Mossy Stump and Void Rift\n\n=== MODE | Roguelike: risk and reward | art: Treasure Trove\n- **Wagers**: some fights offer a handicap for a prize\n- **Mimics**: now and then a shop item bites back -- beat it for your coins and a Rare relic\n- **Boss relics**: Legendary-only relics after each boss, with stronger reward reels\n- Reroll the bosses, and rerolling the shop lets you **upgrade again**\n- New rewards for **Ascension 10** and **Endless round 10**: a title, card back, frame and playmat each\n\n=== FIXES | Fixes | art: Arctic Penwing\n- The **dice** no longer get cut off while they roll\n- Armor relics now work the way Armor does",
       "at": 1795766442977
+    },
+    {
+      "version": "0.2.57",
+      "text": "Update 0.2.57: The Cosmetics Refresh\nNew hand-painted playmats and sleeves, remade cosmetics across the board, and a smoother friends chat.\n\n=== LOOKS | New playmats | art: Butterfly Dragon\n- **New mats:** Sakura Blossom, Bushes Watching, Molten Obsidian, Void Fracture, Emerald Marble, Water Ripples and Ancient Rune Tiles\n- Blood Moon, Astral Void, Frost Cavern, Blue: Tides, Green: Wildwood, Black: Shroud, Colorless: Prism and Lightspeed are **repainted**; you keep any you own\n- The paintings **move**: water ripples, stars twinkle, magma glows, sakura petals drift down, and the eyes in the bushes blink\n- Every mat now brings **matching zones and zone labels**\n\n=== LOOKS | Sleeves and deck boxes | art: Black Magicat\n- **Radiant Burst** sleeves in all six colours, and a repainted **Blood Moon** sleeve\n- All **deck boxes** remade, in three shapes (tall flip-top, treasure chest, crate), with **5 new boxes**\n- Deck box lids now swing open in 3D when you hover a deck\n\n=== LOOKS | Board cosmetics | art: Dancing Cat\n- **Zone styles** give your Leader its own stage: a rune disc, a tree stump, a portal, a flame and more\n- **NRG cells** remade: glass capsules, cut gems, carved runestones, steel blades, halos and gilded plates\n- **Avatar frames** and the original **profile backgrounds** repainted\n- New companions: **Dancing Cat** and **Cotton Candy Magician Girl**; companions sit by the NRG meter\n\n=== CHANGES | The board | art: Lumi, Beloved by Winter\n- The Leader and Void sit lower and the deck and graveyard moved down to make room\n- Player names sit in the board's corners; the Leader shows HP, NRG and ATK only\n- The opening Leader flip no longer dips into the table\n\n=== ONLINE | Friends and chat | art: Angel Dog\n- Messages **group together**, with a time under each group and dividers between days\n- Short messages no longer break in the middle of a word\n- **Quick replies** in an empty chat: Hi!, GG!, Rematch?\n- Report a single message by hovering over it\n\n=== FIXES | Fixes | art: Pyrelite Mage\n- An attack whose target was destroyed before damage now just ends; you're no longer asked to block\n- Old saves listing Nature's Rejoice load Circle of Life again\n- Optional triggers are chosen before you order the Pile\n- Roguelike Tuning and Leader page fixes\n\n=== ONLINE | Friends appearance | art: Angel Dog\n- Choose full-window themes, window proportions, frame and button styles, chat colors, and per-friend accents.\n- Preview changes before saving. Message shape, size, spacing, and timestamps are adjustable.\n\n=== CHANGES | NRG and Roguelike | art: Cloudwatcher\n- Ten more NRG cell shapes, including Coin, Shield Crest, Star Bloom, and Comet Wisp.\n- New Roguelike cards appear first in the deck editor. Toggle deck highlights to see which cards are already in your deck.\n- Create and reassign Leader relics in Roguelike Tuning.\n- Enemy Spirit destructions now award Roguelike coins, and refreshing boosted cards no longer replays their draw animation.",
+      "at": 1795862877031
     }
   ]
 }
